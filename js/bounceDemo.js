@@ -1,9 +1,13 @@
+var sound = new Howl({
+    src: ['assets/click.mp3']
+  });
+
 var Ball = function(point, radius, velocity, item) {
     this.velocity = velocity * 1;
     this.velocity /= 20;
 	this.point = point;
-	this.gravity = 0.05;
-    this.bounce = -0.70;
+	this.gravity = 0.00;
+    this.bounce = -1.0;
     this.radius = radius;
     var d = 2 * radius;
     this.aabb = new Rectangle(point,new Size(d,d));
@@ -42,6 +46,15 @@ Ball.createRaster = function(point, radius, velocity, imgId){
     return new Ball(point, radius, velocity, r);
 }
 
+Ball.prototype.playBounceSound = function(){
+    var soundId = sound.play();
+    sound.once('play', function () {
+        // Set the position of the speaker in 3D space.
+        //sound.pos(this.aabb.x + 0.5, this.aabb.y + 0.5, -0.5, soundId);
+        sound.volume(0.2, soundId);
+    });
+}
+
 Ball.prototype.iterate = function(containerRectangle) {
     intersectionMagnitude(this.intersectionMag, containerRectangle, this.aabb);
     if(this.intersectionMag.isEmpty()){
@@ -56,10 +69,12 @@ Ball.prototype.iterate = function(containerRectangle) {
     if(!m.width || m.width <= d){
         xAdjust = (this.aabb.width - m.width) * (this.velocity.x < 0 ? 1 : -1);
         this.velocity.x *= -1;
+        this.playBounceSound();
     }
     if(!m.height || m.height <= d){
         yAdjust = (this.aabb.height - m.height) * (this.velocity.y < 0 ? 1 : -1);
         this.velocity.y *= -1;
+        this.playBounceSound();
     }
     var nextPosition = this.aabb.center + this.velocity;
     nextPosition.y += yAdjust;
@@ -193,10 +208,13 @@ function map(arr,fn){
     }
     return results;
 }
+  
 
 var balls = map(
     [
-        'random'
+        'lion'
+        /*
+         'random'
         ,'random'
         ,'cooper'
         ,'maizy'
@@ -206,6 +224,7 @@ var balls = map(
         ,'mama'
         ,'papa'
         ,'sawyer'
+        */
     ], function(t){
         var radius = 25;
         var safeSpawnArea = 
