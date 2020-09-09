@@ -13,7 +13,9 @@
     Tan t = Sb/Sa = k/(1-k)
 */
 var kd = 0.001;
-var k = 1/2;
+var kmax = 19/20;
+var kmin = 1/20;
+var k = 0.5;
 var squares = [];
 var k_shrinking = true;
 
@@ -40,10 +42,10 @@ function onFrame(){
         squares.push(path);
     }
 
-    if(k < 1/20){
+    if(k < kmin){
         k_shrinking = false;
     }
-    if(k > 1/5){
+    if(k > kmax){
         k_shrinking = true;
     }
 
