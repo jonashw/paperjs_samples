@@ -34,7 +34,7 @@ function onFrame(event) {
             return;
         }
         path.segments.forEach(function(segment,i){
-            var y = w.fn(segment.point.x/10 + event.time*10);
+            var y = w.fn(segment.point.x/10 + event.time*20);
             segment.point.y = y * height + 30 + 30*wi;
         })
         //path.selected = true;

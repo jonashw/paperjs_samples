@@ -1,3 +1,6 @@
+var speed = 4;
+var scale = new Size(5,10) * [3,1.35];
+
 function Circular(arr, startIntex){
     this.arr = arr;
     this.currentIndex = startIntex || 0;
@@ -18,7 +21,7 @@ function Circular(arr, startIntex){
   Circular.prototype.current = function(){
     return this.arr[this.currentIndex];
   }
-//new Path.Circle({radius:5, center: [10,10], fillColor:'black'})
+
 var curves = [
     {
         id:'sine',
@@ -50,7 +53,7 @@ function repeat(arr,n){
     return repeated;
 }
 
-curves.forEach(function(c,i){
+var wavePaths = curves.map(function(c,i){
     var path = new Path({
         //segments: c.points.map(function(s){ return new Point(s) * 10 + [40,40*(i+1)]; }),
         segments: repeat(c.vectors,14).reduce(function(points,v){
@@ -58,10 +61,50 @@ curves.forEach(function(c,i){
             points.push(nextPoint);
             return points;
         }, [new Point(0,0)])
-        .map(function(p){ return p * [5,10] + [1,30*(i+1)]; }),
+        .map(function(p){ return p * scale + [1,30*(i+1)]; }),
         strokeColor: 'black',
         strokeWidth: 2});
     if(c.smooth){
         path.smooth();
     }
+    c.path = path;
+    return path;
 });
+
+var circle = 
+    new Path.Circle({
+        center: view.center,
+        radius: 70,
+        fillColor: '#dddddd',
+        strokeColor: 'black',
+        strokeWidth:2
+    });
+
+new Group({
+    children: [
+        circle.clone()
+    ].concat(wavePaths),
+    clipped: true
+});
+
+
+new PointText({
+    position: new Point(20,75),
+    content: 'Drag to\nchange\nspeed\n<- ->'
+})
+
+function onMouseDrag(event) {
+    speed = 1 + 10*(event.middlePoint.x / view.bounds.width);
+}
+
+function onFrame(e){
+    curves.forEach(function(c){
+        c.path.position.x+= speed;
+        if(c.path.position.x > view.bounds.width - scale.width * 4){
+            c.path.position.x = scale.width * 4;
+        }
+        if(c.path.position.x < scale.width * 4){
+            c.path.position.x = view.bounds.width - scale.width * 4;
+        }
+    })
+}
