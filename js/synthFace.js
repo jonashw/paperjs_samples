@@ -29,13 +29,8 @@ function Circular(arr, startIntex){
       }, [[]])
   }
   
-  var audioContext = new window.AudioContext();
-  var masterGainNode = audioContext.createGain();
-  masterGainNode.connect(audioContext.destination);
-  var osc = audioContext.createOscillator();
-  window.osc = osc;
-  osc.type = 'sine';
-  osc.connect(masterGainNode);
+  var osc;
+  var started = false;
   var major = [2,2,1,2,2,2,1];
   var minor = [2,1,2,2,1,2,2];
   function f(n,f0) { return (!!f0 ? f0 : 440) * Math.pow(1.05946,n); }
@@ -50,6 +45,46 @@ function Circular(arr, startIntex){
       .intervals
       .map(function(i){ return f(i,f0); });
   }
+
+window.startText = 
+  new PointText({
+    position: new Point(100,75),
+    content: 'Click to start audio'
+  })
+
+var statusText = 
+  new PointText({
+    position: new Point(100,90),
+    content: ''
+  })
+
+var toneInterval;
+function onMouseDown(e){
+  if(!started){
+
+    var audioContext = new window.AudioContext();
+    var masterGainNode = audioContext.createGain();
+    masterGainNode.connect(audioContext.destination);
+    osc = audioContext.createOscillator();
+    window.osc = osc;
+    osc.type = 'sine';
+    osc.connect(masterGainNode);
+    osc.start();
+    applyCurrentTone();
+    toneInterval = setInterval(function(){
+      tones.next();
+      applyCurrentTone();
+    },500);
+    started = true;
+  } else {
+    osc.stop();
+    clearInterval(toneInterval);
+    statusText.content = '';
+    started = false;
+  }
+
+  startText.visible = !started;
+}
 
   var majorMinorTones = function(f0){ return scaleTones(major,f0).concat(scaleTones(minor,f0)); };
   var tones = new Circular(cartesianProduct([
@@ -66,14 +101,6 @@ function Circular(arr, startIntex){
   function applyCurrentTone(){
       osc.frequency.value = tones.current().frequency;
       osc.type = tones.current().type;
-      console.log(tones.current().frequency);
+      statusText.content = osc.frequency.value.toFixed(2) + ' Hz (' + osc.type + ')'
   }
-  setInterval(function(){
-    tones.next();
-    applyCurrentTone();
-  },500);
   
-  setTimeout(function(){
-    osc.start();
-    applyCurrentTone();
-  },200);
