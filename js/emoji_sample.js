@@ -1,5 +1,5 @@
 var texts = [];
-fetch('/js/emojis.json')
+fetch('js/emojis.json')
 .then(function(r){ return r.json(); })
 .then(function(emojis){
     console.log(emojis.people.slice(0,2));
