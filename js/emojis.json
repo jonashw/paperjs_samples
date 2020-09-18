@@ -1,0 +1,7074 @@
+{
+  "people": [
+    {
+      "char": "😀",
+      "name": "Grinning Face"
+    },
+    {
+      "char": "😃",
+      "name": "Grinning Face with Big Eyes"
+    },
+    {
+      "char": "😄",
+      "name": "Grinning Face with Smiling Eyes"
+    },
+    {
+      "char": "😁",
+      "name": "Beaming Face with Smiling Eyes"
+    },
+    {
+      "char": "😆",
+      "name": "Grinning Squinting Face"
+    },
+    {
+      "char": "😅",
+      "name": "Grinning Face with Sweat"
+    },
+    {
+      "char": "🤣",
+      "name": "Rolling on the Floor Laughing"
+    },
+    {
+      "char": "😂",
+      "name": "Face with Tears of Joy"
+    },
+    {
+      "char": "🙂",
+      "name": "Slightly Smiling Face"
+    },
+    {
+      "char": "🙃",
+      "name": "Upside-Down Face"
+    },
+    {
+      "char": "😉",
+      "name": "Winking Face"
+    },
+    {
+      "char": "😊",
+      "name": "Smiling Face with Smiling Eyes"
+    },
+    {
+      "char": "😇",
+      "name": "Smiling Face with Halo"
+    },
+    {
+      "char": "🥰",
+      "name": "Smiling Face with Hearts"
+    },
+    {
+      "char": "😍",
+      "name": "Smiling Face with Heart-Eyes"
+    },
+    {
+      "char": "🤩",
+      "name": "Star-Struck"
+    },
+    {
+      "char": "😘",
+      "name": "Face Blowing a Kiss"
+    },
+    {
+      "char": "😗",
+      "name": "Kissing Face"
+    },
+    {
+      "char": "☺",
+      "name": "Smiling Face"
+    },
+    {
+      "char": "😚",
+      "name": "Kissing Face with Closed Eyes"
+    },
+    {
+      "char": "😙",
+      "name": "Kissing Face with Smiling Eyes"
+    },
+    {
+      "char": "😋",
+      "name": "Face Savoring Food"
+    },
+    {
+      "char": "😛",
+      "name": "Face with Tongue"
+    },
+    {
+      "char": "😜",
+      "name": "Winking Face with Tongue"
+    },
+    {
+      "char": "🤪",
+      "name": "Zany Face"
+    },
+    {
+      "char": "😝",
+      "name": "Squinting Face with Tongue"
+    },
+    {
+      "char": "🤑",
+      "name": "Money-Mouth Face"
+    },
+    {
+      "char": "🤗",
+      "name": "Hugging Face"
+    },
+    {
+      "char": "🤭",
+      "name": "Face with Hand Over Mouth"
+    },
+    {
+      "char": "🤫",
+      "name": "Shushing Face"
+    },
+    {
+      "char": "🤔",
+      "name": "Thinking Face"
+    },
+    {
+      "char": "🤐",
+      "name": "Zipper-Mouth Face"
+    },
+    {
+      "char": "🤨",
+      "name": "Face with Raised Eyebrow"
+    },
+    {
+      "char": "😐",
+      "name": "Neutral Face"
+    },
+    {
+      "char": "😑",
+      "name": "Expressionless Face"
+    },
+    {
+      "char": "😶",
+      "name": "Face Without Mouth"
+    },
+    {
+      "char": "😏",
+      "name": "Smirking Face"
+    },
+    {
+      "char": "😒",
+      "name": "Unamused Face"
+    },
+    {
+      "char": "🙄",
+      "name": "Face with Rolling Eyes"
+    },
+    {
+      "char": "😬",
+      "name": "Grimacing Face"
+    },
+    {
+      "char": "🤥",
+      "name": "Lying Face"
+    },
+    {
+      "char": "😌",
+      "name": "Relieved Face"
+    },
+    {
+      "char": "😔",
+      "name": "Pensive Face"
+    },
+    {
+      "char": "😪",
+      "name": "Sleepy Face"
+    },
+    {
+      "char": "🤤",
+      "name": "Drooling Face"
+    },
+    {
+      "char": "😴",
+      "name": "Sleeping Face"
+    },
+    {
+      "char": "😷",
+      "name": "Face with Medical Mask"
+    },
+    {
+      "char": "🤒",
+      "name": "Face with Thermometer"
+    },
+    {
+      "char": "🤕",
+      "name": "Face with Head-Bandage"
+    },
+    {
+      "char": "🤢",
+      "name": "Nauseated Face"
+    },
+    {
+      "char": "🤮",
+      "name": "Face Vomiting"
+    },
+    {
+      "char": "🤧",
+      "name": "Sneezing Face"
+    },
+    {
+      "char": "🥵",
+      "name": "Hot Face"
+    },
+    {
+      "char": "🥶",
+      "name": "Cold Face"
+    },
+    {
+      "char": "🥴",
+      "name": "Woozy Face"
+    },
+    {
+      "char": "😵",
+      "name": "Dizzy Face"
+    },
+    {
+      "char": "🤯",
+      "name": "Exploding Head"
+    },
+    {
+      "char": "🤠",
+      "name": "Cowboy Hat Face"
+    },
+    {
+      "char": "🥳",
+      "name": "Partying Face"
+    },
+    {
+      "char": "😎",
+      "name": "Smiling Face with Sunglasses"
+    },
+    {
+      "char": "🤓",
+      "name": "Nerd Face"
+    },
+    {
+      "char": "🧐",
+      "name": "Face with Monocle"
+    },
+    {
+      "char": "😕",
+      "name": "Confused Face"
+    },
+    {
+      "char": "😟",
+      "name": "Worried Face"
+    },
+    {
+      "char": "🙁",
+      "name": "Slightly Frowning Face"
+    },
+    {
+      "char": "☹",
+      "name": "Frowning Face"
+    },
+    {
+      "char": "😮",
+      "name": "Face with Open Mouth"
+    },
+    {
+      "char": "😯",
+      "name": "Hushed Face"
+    },
+    {
+      "char": "😲",
+      "name": "Astonished Face"
+    },
+    {
+      "char": "😳",
+      "name": "Flushed Face"
+    },
+    {
+      "char": "🥺",
+      "name": "Pleading Face"
+    },
+    {
+      "char": "😦",
+      "name": "Frowning Face with Open Mouth"
+    },
+    {
+      "char": "😧",
+      "name": "Anguished Face"
+    },
+    {
+      "char": "😨",
+      "name": "Fearful Face"
+    },
+    {
+      "char": "😰",
+      "name": "Anxious Face with Sweat"
+    },
+    {
+      "char": "😥",
+      "name": "Sad but Relieved Face"
+    },
+    {
+      "char": "😢",
+      "name": "Crying Face"
+    },
+    {
+      "char": "😭",
+      "name": "Loudly Crying Face"
+    },
+    {
+      "char": "😱",
+      "name": "Face Screaming in Fear"
+    },
+    {
+      "char": "😖",
+      "name": "Confounded Face"
+    },
+    {
+      "char": "😣",
+      "name": "Persevering Face"
+    },
+    {
+      "char": "😞",
+      "name": "Disappointed Face"
+    },
+    {
+      "char": "😓",
+      "name": "Downcast Face with Sweat"
+    },
+    {
+      "char": "😩",
+      "name": "Weary Face"
+    },
+    {
+      "char": "😫",
+      "name": "Tired Face"
+    },
+    {
+      "char": "🥱",
+      "name": "Yawning Face"
+    },
+    {
+      "char": "😤",
+      "name": "Face with Steam From Nose"
+    },
+    {
+      "char": "😡",
+      "name": "Pouting Face"
+    },
+    {
+      "char": "😠",
+      "name": "Angry Face"
+    },
+    {
+      "char": "🤬",
+      "name": "Face with Symbols on Mouth"
+    },
+    {
+      "char": "😈",
+      "name": "Smiling Face with Horns"
+    },
+    {
+      "char": "👿",
+      "name": "Angry Face with Horns"
+    },
+    {
+      "char": "💀",
+      "name": "Skull"
+    },
+    {
+      "char": "☠",
+      "name": "Skull and Crossbones"
+    },
+    {
+      "char": "💩",
+      "name": "Pile of Poo"
+    },
+    {
+      "char": "🤡",
+      "name": "Clown Face"
+    },
+    {
+      "char": "👹",
+      "name": "Ogre"
+    },
+    {
+      "char": "👺",
+      "name": "Goblin"
+    },
+    {
+      "char": "👻",
+      "name": "Ghost"
+    },
+    {
+      "char": "👽",
+      "name": "Alien"
+    },
+    {
+      "char": "👾",
+      "name": "Alien Monster"
+    },
+    {
+      "char": "🤖",
+      "name": "Robot"
+    },
+    {
+      "char": "😺",
+      "name": "Grinning Cat"
+    },
+    {
+      "char": "😸",
+      "name": "Grinning Cat with Smiling Eyes"
+    },
+    {
+      "char": "😹",
+      "name": "Cat with Tears of Joy"
+    },
+    {
+      "char": "😻",
+      "name": "Smiling Cat with Heart-Eyes"
+    },
+    {
+      "char": "😼",
+      "name": "Cat with Wry Smile"
+    },
+    {
+      "char": "😽",
+      "name": "Kissing Cat"
+    },
+    {
+      "char": "🙀",
+      "name": "Weary Cat"
+    },
+    {
+      "char": "😿",
+      "name": "Crying Cat"
+    },
+    {
+      "char": "😾",
+      "name": "Pouting Cat"
+    },
+    {
+      "char": "💋",
+      "name": "Kiss Mark"
+    },
+    {
+      "char": "👋",
+      "name": "Waving Hand"
+    },
+    {
+      "char": "🤚",
+      "name": "Raised Back of Hand"
+    },
+    {
+      "char": "🖐",
+      "name": "Hand with Fingers Splayed"
+    },
+    {
+      "char": "✋",
+      "name": "Raised Hand"
+    },
+    {
+      "char": "🖖",
+      "name": "Vulcan Salute"
+    },
+    {
+      "char": "👌",
+      "name": "OK Hand"
+    },
+    {
+      "char": "🤏",
+      "name": "Pinching Hand"
+    },
+    {
+      "char": "✌",
+      "name": "Victory Hand"
+    },
+    {
+      "char": "🤞",
+      "name": "Crossed Fingers"
+    },
+    {
+      "char": "🤟",
+      "name": "Love-You Gesture"
+    },
+    {
+      "char": "🤘",
+      "name": "Sign of the Horns"
+    },
+    {
+      "char": "🤙",
+      "name": "Call Me Hand"
+    },
+    {
+      "char": "👈",
+      "name": "Backhand Index Pointing Left"
+    },
+    {
+      "char": "👉",
+      "name": "Backhand Index Pointing Right"
+    },
+    {
+      "char": "👆",
+      "name": "Backhand Index Pointing Up"
+    },
+    {
+      "char": "🖕",
+      "name": "Middle Finger"
+    },
+    {
+      "char": "👇",
+      "name": "Backhand Index Pointing Down"
+    },
+    {
+      "char": "☝",
+      "name": "Index Pointing Up"
+    },
+    {
+      "char": "👍",
+      "name": "Thumbs Up"
+    },
+    {
+      "char": "👎",
+      "name": "Thumbs Down"
+    },
+    {
+      "char": "✊",
+      "name": "Raised Fist"
+    },
+    {
+      "char": "👊",
+      "name": "Oncoming Fist"
+    },
+    {
+      "char": "🤛",
+      "name": "Left-Facing Fist"
+    },
+    {
+      "char": "🤜",
+      "name": "Right-Facing Fist"
+    },
+    {
+      "char": "👏",
+      "name": "Clapping Hands"
+    },
+    {
+      "char": "🙌",
+      "name": "Raising Hands"
+    },
+    {
+      "char": "👐",
+      "name": "Open Hands"
+    },
+    {
+      "char": "🤲",
+      "name": "Palms Up Together"
+    },
+    {
+      "char": "🤝",
+      "name": "Handshake"
+    },
+    {
+      "char": "🙏",
+      "name": "Folded Hands"
+    },
+    {
+      "char": "✍",
+      "name": "Writing Hand"
+    },
+    {
+      "char": "💅",
+      "name": "Nail Polish"
+    },
+    {
+      "char": "🤳",
+      "name": "Selfie"
+    },
+    {
+      "char": "💪",
+      "name": "Flexed Biceps"
+    },
+    {
+      "char": "🦾",
+      "name": "Mechanical Arm"
+    },
+    {
+      "char": "🦿",
+      "name": "Mechanical Leg"
+    },
+    {
+      "char": "🦵",
+      "name": "Leg"
+    },
+    {
+      "char": "🦶",
+      "name": "Foot"
+    },
+    {
+      "char": "👂",
+      "name": "Ear"
+    },
+    {
+      "char": "🦻",
+      "name": "Ear with Hearing Aid"
+    },
+    {
+      "char": "👃",
+      "name": "Nose"
+    },
+    {
+      "char": "🧠",
+      "name": "Brain"
+    },
+    {
+      "char": "🦷",
+      "name": "Tooth"
+    },
+    {
+      "char": "🦴",
+      "name": "Bone"
+    },
+    {
+      "char": "👀",
+      "name": "Eyes"
+    },
+    {
+      "char": "👁",
+      "name": "Eye"
+    },
+    {
+      "char": "👅",
+      "name": "Tongue"
+    },
+    {
+      "char": "👄",
+      "name": "Mouth"
+    },
+    {
+      "char": "👶",
+      "name": "Baby"
+    },
+    {
+      "char": "🧒",
+      "name": "Child"
+    },
+    {
+      "char": "👦",
+      "name": "Boy"
+    },
+    {
+      "char": "👧",
+      "name": "Girl"
+    },
+    {
+      "char": "🧑",
+      "name": "Person"
+    },
+    {
+      "char": "👱",
+      "name": "Person: Blond Hair"
+    },
+    {
+      "char": "👨",
+      "name": "Man"
+    },
+    {
+      "char": "🧔",
+      "name": "Person: Beard"
+    },
+    {
+      "char": "👨‍🦰",
+      "name": "‍🦰 Man: Red Hair"
+    },
+    {
+      "char": "👨‍🦱",
+      "name": "‍🦱 Man: Curly Hair"
+    },
+    {
+      "char": "👨‍🦳",
+      "name": "‍🦳 Man: White Hair"
+    },
+    {
+      "char": "👨‍🦲",
+      "name": "‍🦲 Man: Bald"
+    },
+    {
+      "char": "👩",
+      "name": "Woman"
+    },
+    {
+      "char": "👩‍🦰",
+      "name": "‍🦰 Woman: Red Hair"
+    },
+    {
+      "char": "🧑‍🦰",
+      "name": "‍🦰 Person: Red Hair"
+    },
+    {
+      "char": "👩‍🦱",
+      "name": "‍🦱 Woman: Curly Hair"
+    },
+    {
+      "char": "🧑‍🦱",
+      "name": "‍🦱 Person: Curly Hair"
+    },
+    {
+      "char": "👩‍🦳",
+      "name": "‍🦳 Woman: White Hair"
+    },
+    {
+      "char": "🧑‍🦳",
+      "name": "‍🦳 Person: White Hair"
+    },
+    {
+      "char": "👩‍🦲",
+      "name": "‍🦲 Woman: Bald"
+    },
+    {
+      "char": "🧑‍🦲",
+      "name": "‍🦲 Person: Bald"
+    },
+    {
+      "char": "👱‍♀️",
+      "name": "‍♀️ Woman: Blond Hair"
+    },
+    {
+      "char": "👱‍♂️",
+      "name": "‍♂️ Man: Blond Hair"
+    },
+    {
+      "char": "🧓",
+      "name": "Older Person"
+    },
+    {
+      "char": "👴",
+      "name": "Old Man"
+    },
+    {
+      "char": "👵",
+      "name": "Old Woman"
+    },
+    {
+      "char": "🙍",
+      "name": "Person Frowning"
+    },
+    {
+      "char": "🙍‍♂️",
+      "name": "‍♂️ Man Frowning"
+    },
+    {
+      "char": "🙍‍♀️",
+      "name": "‍♀️ Woman Frowning"
+    },
+    {
+      "char": "🙎",
+      "name": "Person Pouting"
+    },
+    {
+      "char": "🙎‍♂️",
+      "name": "‍♂️ Man Pouting"
+    },
+    {
+      "char": "🙎‍♀️",
+      "name": "‍♀️ Woman Pouting"
+    },
+    {
+      "char": "🙅",
+      "name": "Person Gesturing No"
+    },
+    {
+      "char": "🙅‍♂️",
+      "name": "‍♂️ Man Gesturing No"
+    },
+    {
+      "char": "🙅‍♀️",
+      "name": "‍♀️ Woman Gesturing No"
+    },
+    {
+      "char": "🙆",
+      "name": "Person Gesturing OK"
+    },
+    {
+      "char": "🙆‍♂️",
+      "name": "‍♂️ Man Gesturing OK"
+    },
+    {
+      "char": "🙆‍♀️",
+      "name": "‍♀️ Woman Gesturing OK"
+    },
+    {
+      "char": "💁",
+      "name": "Person Tipping Hand"
+    },
+    {
+      "char": "💁‍♂️",
+      "name": "‍♂️ Man Tipping Hand"
+    },
+    {
+      "char": "💁‍♀️",
+      "name": "‍♀️ Woman Tipping Hand"
+    },
+    {
+      "char": "🙋",
+      "name": "Person Raising Hand"
+    },
+    {
+      "char": "🙋‍♂️",
+      "name": "‍♂️ Man Raising Hand"
+    },
+    {
+      "char": "🙋‍♀️",
+      "name": "‍♀️ Woman Raising Hand"
+    },
+    {
+      "char": "🧏",
+      "name": "Deaf Person"
+    },
+    {
+      "char": "🧏‍♂️",
+      "name": "‍♂️ Deaf Man"
+    },
+    {
+      "char": "🧏‍♀️",
+      "name": "‍♀️ Deaf Woman"
+    },
+    {
+      "char": "🙇",
+      "name": "Person Bowing"
+    },
+    {
+      "char": "🙇‍♂️",
+      "name": "‍♂️ Man Bowing"
+    },
+    {
+      "char": "🙇‍♀️",
+      "name": "‍♀️ Woman Bowing"
+    },
+    {
+      "char": "🤦",
+      "name": "Person Facepalming"
+    },
+    {
+      "char": "🤦‍♂️",
+      "name": "‍♂️ Man Facepalming"
+    },
+    {
+      "char": "🤦‍♀️",
+      "name": "‍♀️ Woman Facepalming"
+    },
+    {
+      "char": "🤷",
+      "name": "Person Shrugging"
+    },
+    {
+      "char": "🤷‍♂️",
+      "name": "‍♂️ Man Shrugging"
+    },
+    {
+      "char": "🤷‍♀️",
+      "name": "‍♀️ Woman Shrugging"
+    },
+    {
+      "char": "🧑‍⚕️",
+      "name": "‍⚕️ Health Worker"
+    },
+    {
+      "char": "👨‍⚕️",
+      "name": "‍⚕️ Man Health Worker"
+    },
+    {
+      "char": "👩‍⚕️",
+      "name": "‍⚕️ Woman Health Worker"
+    },
+    {
+      "char": "🧑‍🎓",
+      "name": "‍🎓 Student"
+    },
+    {
+      "char": "👨‍🎓",
+      "name": "‍🎓 Man Student"
+    },
+    {
+      "char": "👩‍🎓",
+      "name": "‍🎓 Woman Student"
+    },
+    {
+      "char": "🧑‍🏫",
+      "name": "‍🏫 Teacher"
+    },
+    {
+      "char": "👨‍🏫",
+      "name": "‍🏫 Man Teacher"
+    },
+    {
+      "char": "👩‍🏫",
+      "name": "‍🏫 Woman Teacher"
+    },
+    {
+      "char": "🧑‍⚖️",
+      "name": "‍⚖️ Judge"
+    },
+    {
+      "char": "👨‍⚖️",
+      "name": "‍⚖️ Man Judge"
+    },
+    {
+      "char": "👩‍⚖️",
+      "name": "‍⚖️ Woman Judge"
+    },
+    {
+      "char": "🧑‍🌾",
+      "name": "‍🌾 Farmer"
+    },
+    {
+      "char": "👨‍🌾",
+      "name": "‍🌾 Man Farmer"
+    },
+    {
+      "char": "👩‍🌾",
+      "name": "‍🌾 Woman Farmer"
+    },
+    {
+      "char": "🧑‍🍳",
+      "name": "‍🍳 Cook"
+    },
+    {
+      "char": "👨‍🍳",
+      "name": "‍🍳 Man Cook"
+    },
+    {
+      "char": "👩‍🍳",
+      "name": "‍🍳 Woman Cook"
+    },
+    {
+      "char": "🧑‍🔧",
+      "name": "‍🔧 Mechanic"
+    },
+    {
+      "char": "👨‍🔧",
+      "name": "‍🔧 Man Mechanic"
+    },
+    {
+      "char": "👩‍🔧",
+      "name": "‍🔧 Woman Mechanic"
+    },
+    {
+      "char": "🧑‍🏭",
+      "name": "‍🏭 Factory Worker"
+    },
+    {
+      "char": "👨‍🏭",
+      "name": "‍🏭 Man Factory Worker"
+    },
+    {
+      "char": "👩‍🏭",
+      "name": "‍🏭 Woman Factory Worker"
+    },
+    {
+      "char": "🧑‍💼",
+      "name": "‍💼 Office Worker"
+    },
+    {
+      "char": "👨‍💼",
+      "name": "‍💼 Man Office Worker"
+    },
+    {
+      "char": "👩‍💼",
+      "name": "‍💼 Woman Office Worker"
+    },
+    {
+      "char": "🧑‍🔬",
+      "name": "‍🔬 Scientist"
+    },
+    {
+      "char": "👨‍🔬",
+      "name": "‍🔬 Man Scientist"
+    },
+    {
+      "char": "👩‍🔬",
+      "name": "‍🔬 Woman Scientist"
+    },
+    {
+      "char": "🧑‍💻",
+      "name": "‍💻 Technologist"
+    },
+    {
+      "char": "👨‍💻",
+      "name": "‍💻 Man Technologist"
+    },
+    {
+      "char": "👩‍💻",
+      "name": "‍💻 Woman Technologist"
+    },
+    {
+      "char": "🧑‍🎤",
+      "name": "‍🎤 Singer"
+    },
+    {
+      "char": "👨‍🎤",
+      "name": "‍🎤 Man Singer"
+    },
+    {
+      "char": "👩‍🎤",
+      "name": "‍🎤 Woman Singer"
+    },
+    {
+      "char": "🧑‍🎨",
+      "name": "‍🎨 Artist"
+    },
+    {
+      "char": "👨‍🎨",
+      "name": "‍🎨 Man Artist"
+    },
+    {
+      "char": "👩‍🎨",
+      "name": "‍🎨 Woman Artist"
+    },
+    {
+      "char": "🧑‍✈️",
+      "name": "‍✈️ Pilot"
+    },
+    {
+      "char": "👨‍✈️",
+      "name": "‍✈️ Man Pilot"
+    },
+    {
+      "char": "👩‍✈️",
+      "name": "‍✈️ Woman Pilot"
+    },
+    {
+      "char": "🧑‍🚀",
+      "name": "‍🚀 Astronaut"
+    },
+    {
+      "char": "👨‍🚀",
+      "name": "‍🚀 Man Astronaut"
+    },
+    {
+      "char": "👩‍🚀",
+      "name": "‍🚀 Woman Astronaut"
+    },
+    {
+      "char": "🧑‍🚒",
+      "name": "‍🚒 Firefighter"
+    },
+    {
+      "char": "👨‍🚒",
+      "name": "‍🚒 Man Firefighter"
+    },
+    {
+      "char": "👩‍🚒",
+      "name": "‍🚒 Woman Firefighter"
+    },
+    {
+      "char": "👮",
+      "name": "Police Officer"
+    },
+    {
+      "char": "👮‍♂️",
+      "name": "‍♂️ Man Police Officer"
+    },
+    {
+      "char": "👮‍♀️",
+      "name": "‍♀️ Woman Police Officer"
+    },
+    {
+      "char": "🕵",
+      "name": "Detective"
+    },
+    {
+      "char": "🕵️‍♂️",
+      "name": "️‍♂️ Man Detective"
+    },
+    {
+      "char": "🕵️‍♀️",
+      "name": "️‍♀️ Woman Detective"
+    },
+    {
+      "char": "💂",
+      "name": "Guard"
+    },
+    {
+      "char": "💂‍♂️",
+      "name": "‍♂️ Man Guard"
+    },
+    {
+      "char": "💂‍♀️",
+      "name": "‍♀️ Woman Guard"
+    },
+    {
+      "char": "👷",
+      "name": "Construction Worker"
+    },
+    {
+      "char": "👷‍♂️",
+      "name": "‍♂️ Man Construction Worker"
+    },
+    {
+      "char": "👷‍♀️",
+      "name": "‍♀️ Woman Construction Worker"
+    },
+    {
+      "char": "🤴",
+      "name": "Prince"
+    },
+    {
+      "char": "👸",
+      "name": "Princess"
+    },
+    {
+      "char": "👳",
+      "name": "Person Wearing Turban"
+    },
+    {
+      "char": "👳‍♂️",
+      "name": "‍♂️ Man Wearing Turban"
+    },
+    {
+      "char": "👳‍♀️",
+      "name": "‍♀️ Woman Wearing Turban"
+    },
+    {
+      "char": "👲",
+      "name": "Person With Skullcap"
+    },
+    {
+      "char": "🧕",
+      "name": "Woman with Headscarf"
+    },
+    {
+      "char": "🤵",
+      "name": "Person in Tuxedo"
+    },
+    {
+      "char": "👰",
+      "name": "Person With Veil"
+    },
+    {
+      "char": "🤰",
+      "name": "Pregnant Woman"
+    },
+    {
+      "char": "🤱",
+      "name": "Breast-Feeding"
+    },
+    {
+      "char": "🧑‍🍼",
+      "name": "‍🍼 Person Feeding Baby"
+    },
+    {
+      "char": "👼",
+      "name": "Baby Angel"
+    },
+    {
+      "char": "🎅",
+      "name": "Santa Claus"
+    },
+    {
+      "char": "🤶",
+      "name": "Mrs. Claus"
+    },
+    {
+      "char": "🦸",
+      "name": "Superhero"
+    },
+    {
+      "char": "🦸‍♂️",
+      "name": "‍♂️ Man Superhero"
+    },
+    {
+      "char": "🦸‍♀️",
+      "name": "‍♀️ Woman Superhero"
+    },
+    {
+      "char": "🦹",
+      "name": "Supervillain"
+    },
+    {
+      "char": "🦹‍♂️",
+      "name": "‍♂️ Man Supervillain"
+    },
+    {
+      "char": "🦹‍♀️",
+      "name": "‍♀️ Woman Supervillain"
+    },
+    {
+      "char": "🧙",
+      "name": "Mage"
+    },
+    {
+      "char": "🧙‍♂️",
+      "name": "‍♂️ Man Mage"
+    },
+    {
+      "char": "🧙‍♀️",
+      "name": "‍♀️ Woman Mage"
+    },
+    {
+      "char": "🧚",
+      "name": "Fairy"
+    },
+    {
+      "char": "🧚‍♂️",
+      "name": "‍♂️ Man Fairy"
+    },
+    {
+      "char": "🧚‍♀️",
+      "name": "‍♀️ Woman Fairy"
+    },
+    {
+      "char": "🧛",
+      "name": "Vampire"
+    },
+    {
+      "char": "🧛‍♂️",
+      "name": "‍♂️ Man Vampire"
+    },
+    {
+      "char": "🧛‍♀️",
+      "name": "‍♀️ Woman Vampire"
+    },
+    {
+      "char": "🧜",
+      "name": "Merperson"
+    },
+    {
+      "char": "🧜‍♂️",
+      "name": "‍♂️ Merman"
+    },
+    {
+      "char": "🧜‍♀️",
+      "name": "‍♀️ Mermaid"
+    },
+    {
+      "char": "🧝",
+      "name": "Elf"
+    },
+    {
+      "char": "🧝‍♂️",
+      "name": "‍♂️ Man Elf"
+    },
+    {
+      "char": "🧝‍♀️",
+      "name": "‍♀️ Woman Elf"
+    },
+    {
+      "char": "🧞",
+      "name": "Genie"
+    },
+    {
+      "char": "🧞‍♂️",
+      "name": "‍♂️ Man Genie"
+    },
+    {
+      "char": "🧞‍♀️",
+      "name": "‍♀️ Woman Genie"
+    },
+    {
+      "char": "🧟",
+      "name": "Zombie"
+    },
+    {
+      "char": "🧟‍♂️",
+      "name": "‍♂️ Man Zombie"
+    },
+    {
+      "char": "🧟‍♀️",
+      "name": "‍♀️ Woman Zombie"
+    },
+    {
+      "char": "💆",
+      "name": "Person Getting Massage"
+    },
+    {
+      "char": "💆‍♂️",
+      "name": "‍♂️ Man Getting Massage"
+    },
+    {
+      "char": "💆‍♀️",
+      "name": "‍♀️ Woman Getting Massage"
+    },
+    {
+      "char": "💇",
+      "name": "Person Getting Haircut"
+    },
+    {
+      "char": "💇‍♂️",
+      "name": "‍♂️ Man Getting Haircut"
+    },
+    {
+      "char": "💇‍♀️",
+      "name": "‍♀️ Woman Getting Haircut"
+    },
+    {
+      "char": "🚶",
+      "name": "Person Walking"
+    },
+    {
+      "char": "🚶‍♂️",
+      "name": "‍♂️ Man Walking"
+    },
+    {
+      "char": "🚶‍♀️",
+      "name": "‍♀️ Woman Walking"
+    },
+    {
+      "char": "🧍",
+      "name": "Person Standing"
+    },
+    {
+      "char": "🧍‍♂️",
+      "name": "‍♂️ Man Standing"
+    },
+    {
+      "char": "🧍‍♀️",
+      "name": "‍♀️ Woman Standing"
+    },
+    {
+      "char": "🧎",
+      "name": "Person Kneeling"
+    },
+    {
+      "char": "🧎‍♂️",
+      "name": "‍♂️ Man Kneeling"
+    },
+    {
+      "char": "🧎‍♀️",
+      "name": "‍♀️ Woman Kneeling"
+    },
+    {
+      "char": "🧑‍🦯",
+      "name": "‍🦯 Person with White Cane"
+    },
+    {
+      "char": "👨‍🦯",
+      "name": "‍🦯 Man with White Cane"
+    },
+    {
+      "char": "👩‍🦯",
+      "name": "‍🦯 Woman with White Cane"
+    },
+    {
+      "char": "🧑‍🦼",
+      "name": "‍🦼 Person in Motorized Wheelchair"
+    },
+    {
+      "char": "👨‍🦼",
+      "name": "‍🦼 Man in Motorized Wheelchair"
+    },
+    {
+      "char": "👩‍🦼",
+      "name": "‍🦼 Woman in Motorized Wheelchair"
+    },
+    {
+      "char": "🧑‍🦽",
+      "name": "‍🦽 Person in Manual Wheelchair"
+    },
+    {
+      "char": "👨‍🦽",
+      "name": "‍🦽 Man in Manual Wheelchair"
+    },
+    {
+      "char": "👩‍🦽",
+      "name": "‍🦽 Woman in Manual Wheelchair"
+    },
+    {
+      "char": "🏃",
+      "name": "Person Running"
+    },
+    {
+      "char": "🏃‍♂️",
+      "name": "‍♂️ Man Running"
+    },
+    {
+      "char": "🏃‍♀️",
+      "name": "‍♀️ Woman Running"
+    },
+    {
+      "char": "💃",
+      "name": "Woman Dancing"
+    },
+    {
+      "char": "🕺",
+      "name": "Man Dancing"
+    },
+    {
+      "char": "🕴",
+      "name": "Person in Suit Levitating"
+    },
+    {
+      "char": "👯",
+      "name": "People with Bunny Ears"
+    },
+    {
+      "char": "👯‍♂️",
+      "name": "‍♂️ Men with Bunny Ears"
+    },
+    {
+      "char": "👯‍♀️",
+      "name": "‍♀️ Women with Bunny Ears"
+    },
+    {
+      "char": "🧖",
+      "name": "Person in Steamy Room"
+    },
+    {
+      "char": "🧖‍♂️",
+      "name": "‍♂️ Man in Steamy Room"
+    },
+    {
+      "char": "🧖‍♀️",
+      "name": "‍♀️ Woman in Steamy Room"
+    },
+    {
+      "char": "🧘",
+      "name": "Person in Lotus Position"
+    },
+    {
+      "char": "🧑‍🤝‍🧑",
+      "name": "‍🤝‍🧑 People Holding Hands"
+    },
+    {
+      "char": "👭",
+      "name": "Women Holding Hands"
+    },
+    {
+      "char": "👫",
+      "name": "Woman and Man Holding Hands"
+    },
+    {
+      "char": "👬",
+      "name": "Men Holding Hands"
+    },
+    {
+      "char": "💏",
+      "name": "Kiss"
+    },
+    {
+      "char": "👩‍❤️‍💋‍👨",
+      "name": "‍❤️‍💋‍👨 Kiss: Woman, Man"
+    },
+    {
+      "char": "👨‍❤️‍💋‍👨",
+      "name": "‍❤️‍💋‍👨 Kiss: Man, Man"
+    },
+    {
+      "char": "👩‍❤️‍💋‍👩",
+      "name": "‍❤️‍💋‍👩 Kiss: Woman, Woman"
+    },
+    {
+      "char": "💑",
+      "name": "Couple with Heart"
+    },
+    {
+      "char": "👩‍❤️‍👨",
+      "name": "‍❤️‍👨 Couple with Heart: Woman, Man"
+    },
+    {
+      "char": "👨‍❤️‍👨",
+      "name": "‍❤️‍👨 Couple with Heart: Man, Man"
+    },
+    {
+      "char": "👩‍❤️‍👩",
+      "name": "‍❤️‍👩 Couple with Heart: Woman, Woman"
+    },
+    {
+      "char": "👪",
+      "name": "Family"
+    },
+    {
+      "char": "👨‍👩‍👦",
+      "name": "‍👩‍👦 Family: Man, Woman, Boy"
+    },
+    {
+      "char": "👨‍👩‍👧",
+      "name": "‍👩‍👧 Family: Man, Woman, Girl"
+    },
+    {
+      "char": "👨‍👩‍👧‍👦",
+      "name": "‍👩‍👧‍👦 Family: Man, Woman, Girl, Boy"
+    },
+    {
+      "char": "👨‍👩‍👦‍👦",
+      "name": "‍👩‍👦‍👦 Family: Man, Woman, Boy, Boy"
+    },
+    {
+      "char": "👨‍👩‍👧‍👧",
+      "name": "‍👩‍👧‍👧 Family: Man, Woman, Girl, Girl"
+    },
+    {
+      "char": "👨‍👨‍👦",
+      "name": "‍👨‍👦 Family: Man, Man, Boy"
+    },
+    {
+      "char": "👨‍👨‍👧",
+      "name": "‍👨‍👧 Family: Man, Man, Girl"
+    },
+    {
+      "char": "👨‍👨‍👧‍👦",
+      "name": "‍👨‍👧‍👦 Family: Man, Man, Girl, Boy"
+    },
+    {
+      "char": "👨‍👨‍👦‍👦",
+      "name": "‍👨‍👦‍👦 Family: Man, Man, Boy, Boy"
+    },
+    {
+      "char": "👨‍👨‍👧‍👧",
+      "name": "‍👨‍👧‍👧 Family: Man, Man, Girl, Girl"
+    },
+    {
+      "char": "👩‍👩‍👦",
+      "name": "‍👩‍👦 Family: Woman, Woman, Boy"
+    },
+    {
+      "char": "👩‍👩‍👧",
+      "name": "‍👩‍👧 Family: Woman, Woman, Girl"
+    },
+    {
+      "char": "👩‍👩‍👧‍👦",
+      "name": "‍👩‍👧‍👦 Family: Woman, Woman, Girl, Boy"
+    },
+    {
+      "char": "👩‍👩‍👦‍👦",
+      "name": "‍👩‍👦‍👦 Family: Woman, Woman, Boy, Boy"
+    },
+    {
+      "char": "👩‍👩‍👧‍👧",
+      "name": "‍👩‍👧‍👧 Family: Woman, Woman, Girl, Girl"
+    },
+    {
+      "char": "👨‍👦",
+      "name": "‍👦 Family: Man, Boy"
+    },
+    {
+      "char": "👨‍👦‍👦",
+      "name": "‍👦‍👦 Family: Man, Boy, Boy"
+    },
+    {
+      "char": "👨‍👧",
+      "name": "‍👧 Family: Man, Girl"
+    },
+    {
+      "char": "👨‍👧‍👦",
+      "name": "‍👧‍👦 Family: Man, Girl, Boy"
+    },
+    {
+      "char": "👨‍👧‍👧",
+      "name": "‍👧‍👧 Family: Man, Girl, Girl"
+    },
+    {
+      "char": "👩‍👦",
+      "name": "‍👦 Family: Woman, Boy"
+    },
+    {
+      "char": "👩‍👦‍👦",
+      "name": "‍👦‍👦 Family: Woman, Boy, Boy"
+    },
+    {
+      "char": "👩‍👧",
+      "name": "‍👧 Family: Woman, Girl"
+    },
+    {
+      "char": "👩‍👧‍👦",
+      "name": "‍👧‍👦 Family: Woman, Girl, Boy"
+    },
+    {
+      "char": "👩‍👧‍👧",
+      "name": "‍👧‍👧 Family: Woman, Girl, Girl"
+    },
+    {
+      "char": "🗣",
+      "name": "Speaking Head"
+    },
+    {
+      "char": "👤",
+      "name": "Bust in Silhouette"
+    },
+    {
+      "char": "👥",
+      "name": "Busts in Silhouette"
+    },
+    {
+      "char": "👣",
+      "name": "Footprints"
+    },
+    {
+      "char": "🧳",
+      "name": "Luggage"
+    },
+    {
+      "char": "🌂",
+      "name": "Closed Umbrella"
+    },
+    {
+      "char": "☂",
+      "name": "Umbrella"
+    },
+    {
+      "char": "🎃",
+      "name": "Jack-O-Lantern"
+    },
+    {
+      "char": "🧵",
+      "name": "Thread"
+    },
+    {
+      "char": "🧶",
+      "name": "Yarn"
+    },
+    {
+      "char": "👓",
+      "name": "Glasses"
+    },
+    {
+      "char": "🕶",
+      "name": "Sunglasses"
+    },
+    {
+      "char": "🥽",
+      "name": "Goggles"
+    },
+    {
+      "char": "🥼",
+      "name": "Lab Coat"
+    },
+    {
+      "char": "🦺",
+      "name": "Safety Vest"
+    },
+    {
+      "char": "👔",
+      "name": "Necktie"
+    },
+    {
+      "char": "👕",
+      "name": "T-Shirt"
+    },
+    {
+      "char": "👖",
+      "name": "Jeans"
+    },
+    {
+      "char": "🧣",
+      "name": "Scarf"
+    },
+    {
+      "char": "🧤",
+      "name": "Gloves"
+    },
+    {
+      "char": "🧥",
+      "name": "Coat"
+    },
+    {
+      "char": "🧦",
+      "name": "Socks"
+    },
+    {
+      "char": "👗",
+      "name": "Dress"
+    },
+    {
+      "char": "👘",
+      "name": "Kimono"
+    },
+    {
+      "char": "🥻",
+      "name": "Sari"
+    },
+    {
+      "char": "🩱",
+      "name": "One-Piece Swimsuit"
+    },
+    {
+      "char": "🩲",
+      "name": "Briefs"
+    },
+    {
+      "char": "🩳",
+      "name": "Shorts"
+    },
+    {
+      "char": "👙",
+      "name": "Bikini"
+    },
+    {
+      "char": "👚",
+      "name": "Woman’s Clothes"
+    },
+    {
+      "char": "👛",
+      "name": "Purse"
+    },
+    {
+      "char": "👜",
+      "name": "Handbag"
+    },
+    {
+      "char": "👝",
+      "name": "Clutch Bag"
+    },
+    {
+      "char": "🎒",
+      "name": "Backpack"
+    },
+    {
+      "char": "👞",
+      "name": "Man’s Shoe"
+    },
+    {
+      "char": "👟",
+      "name": "Running Shoe"
+    },
+    {
+      "char": "🥾",
+      "name": "Hiking Boot"
+    },
+    {
+      "char": "🥿",
+      "name": "Flat Shoe"
+    },
+    {
+      "char": "👠",
+      "name": "High-Heeled Shoe"
+    },
+    {
+      "char": "👡",
+      "name": "Woman’s Sandal"
+    },
+    {
+      "char": "🩰",
+      "name": "Ballet Shoes"
+    },
+    {
+      "char": "👢",
+      "name": "Woman’s Boot"
+    },
+    {
+      "char": "👑",
+      "name": "Crown"
+    },
+    {
+      "char": "👒",
+      "name": "Woman’s Hat"
+    },
+    {
+      "char": "🎩",
+      "name": "Top Hat"
+    },
+    {
+      "char": "🎓",
+      "name": "Graduation Cap"
+    },
+    {
+      "char": "🧢",
+      "name": "Billed Cap"
+    },
+    {
+      "char": "⛑",
+      "name": "Rescue Worker’s Helmet"
+    },
+    {
+      "char": "💄",
+      "name": "Lipstick"
+    },
+    {
+      "char": "💍",
+      "name": "Ring"
+    },
+    {
+      "char": "💼",
+      "name": "Briefcase"
+    },
+    {
+      "char": "🩸",
+      "name": "Drop of Blood"
+    }
+  ],
+  "nature": [
+    {
+      "char": "🙈",
+      "name": "See-No-Evil Monkey"
+    },
+    {
+      "char": "🙉",
+      "name": "Hear-No-Evil Monkey"
+    },
+    {
+      "char": "🙊",
+      "name": "Speak-No-Evil Monkey"
+    },
+    {
+      "char": "💥",
+      "name": "Collision"
+    },
+    {
+      "char": "💫",
+      "name": "Dizzy"
+    },
+    {
+      "char": "💦",
+      "name": "Sweat Droplets"
+    },
+    {
+      "char": "💨",
+      "name": "Dashing Away"
+    },
+    {
+      "char": "🐵",
+      "name": "Monkey Face"
+    },
+    {
+      "char": "🐒",
+      "name": "Monkey"
+    },
+    {
+      "char": "🦍",
+      "name": "Gorilla"
+    },
+    {
+      "char": "🦧",
+      "name": "Orangutan"
+    },
+    {
+      "char": "🐶",
+      "name": "Dog Face"
+    },
+    {
+      "char": "🐕",
+      "name": "Dog"
+    },
+    {
+      "char": "🦮",
+      "name": "Guide Dog"
+    },
+    {
+      "char": "🐕‍🦺",
+      "name": "‍🦺 Service Dog"
+    },
+    {
+      "char": "🐩",
+      "name": "Poodle"
+    },
+    {
+      "char": "🐺",
+      "name": "Wolf"
+    },
+    {
+      "char": "🦊",
+      "name": "Fox"
+    },
+    {
+      "char": "🦝",
+      "name": "Raccoon"
+    },
+    {
+      "char": "🐱",
+      "name": "Cat Face"
+    },
+    {
+      "char": "🐈",
+      "name": "Cat"
+    },
+    {
+      "char": "🦁",
+      "name": "Lion"
+    },
+    {
+      "char": "🐯",
+      "name": "Tiger Face"
+    },
+    {
+      "char": "🐅",
+      "name": "Tiger"
+    },
+    {
+      "char": "🐆",
+      "name": "Leopard"
+    },
+    {
+      "char": "🐴",
+      "name": "Horse Face"
+    },
+    {
+      "char": "🐎",
+      "name": "Horse"
+    },
+    {
+      "char": "🦄",
+      "name": "Unicorn"
+    },
+    {
+      "char": "🦓",
+      "name": "Zebra"
+    },
+    {
+      "char": "🦌",
+      "name": "Deer"
+    },
+    {
+      "char": "🐮",
+      "name": "Cow Face"
+    },
+    {
+      "char": "🐂",
+      "name": "Ox"
+    },
+    {
+      "char": "🐃",
+      "name": "Water Buffalo"
+    },
+    {
+      "char": "🐄",
+      "name": "Cow"
+    },
+    {
+      "char": "🐷",
+      "name": "Pig Face"
+    },
+    {
+      "char": "🐖",
+      "name": "Pig"
+    },
+    {
+      "char": "🐗",
+      "name": "Boar"
+    },
+    {
+      "char": "🐽",
+      "name": "Pig Nose"
+    },
+    {
+      "char": "🐏",
+      "name": "Ram"
+    },
+    {
+      "char": "🐑",
+      "name": "Ewe"
+    },
+    {
+      "char": "🐐",
+      "name": "Goat"
+    },
+    {
+      "char": "🐪",
+      "name": "Camel"
+    },
+    {
+      "char": "🐫",
+      "name": "Two-Hump Camel"
+    },
+    {
+      "char": "🦙",
+      "name": "Llama"
+    },
+    {
+      "char": "🦒",
+      "name": "Giraffe"
+    },
+    {
+      "char": "🐘",
+      "name": "Elephant"
+    },
+    {
+      "char": "🦏",
+      "name": "Rhinoceros"
+    },
+    {
+      "char": "🦛",
+      "name": "Hippopotamus"
+    },
+    {
+      "char": "🐭",
+      "name": "Mouse Face"
+    },
+    {
+      "char": "🐁",
+      "name": "Mouse"
+    },
+    {
+      "char": "🐀",
+      "name": "Rat"
+    },
+    {
+      "char": "🐹",
+      "name": "Hamster"
+    },
+    {
+      "char": "🐰",
+      "name": "Rabbit Face"
+    },
+    {
+      "char": "🐇",
+      "name": "Rabbit"
+    },
+    {
+      "char": "🐿",
+      "name": "Chipmunk"
+    },
+    {
+      "char": "🦔",
+      "name": "Hedgehog"
+    },
+    {
+      "char": "🦇",
+      "name": "Bat"
+    },
+    {
+      "char": "🐻",
+      "name": "Bear"
+    },
+    {
+      "char": "🐨",
+      "name": "Koala"
+    },
+    {
+      "char": "🐼",
+      "name": "Panda"
+    },
+    {
+      "char": "🦥",
+      "name": "Sloth"
+    },
+    {
+      "char": "🦦",
+      "name": "Otter"
+    },
+    {
+      "char": "🦨",
+      "name": "Skunk"
+    },
+    {
+      "char": "🦘",
+      "name": "Kangaroo"
+    },
+    {
+      "char": "🦡",
+      "name": "Badger"
+    },
+    {
+      "char": "🐾",
+      "name": "Paw Prints"
+    },
+    {
+      "char": "🦃",
+      "name": "Turkey"
+    },
+    {
+      "char": "🐔",
+      "name": "Chicken"
+    },
+    {
+      "char": "🐓",
+      "name": "Rooster"
+    },
+    {
+      "char": "🐣",
+      "name": "Hatching Chick"
+    },
+    {
+      "char": "🐤",
+      "name": "Baby Chick"
+    },
+    {
+      "char": "🐥",
+      "name": "Front-Facing Baby Chick"
+    },
+    {
+      "char": "🐦",
+      "name": "Bird"
+    },
+    {
+      "char": "🐧",
+      "name": "Penguin"
+    },
+    {
+      "char": "🕊",
+      "name": "Dove"
+    },
+    {
+      "char": "🦅",
+      "name": "Eagle"
+    },
+    {
+      "char": "🦆",
+      "name": "Duck"
+    },
+    {
+      "char": "🦢",
+      "name": "Swan"
+    },
+    {
+      "char": "🦉",
+      "name": "Owl"
+    },
+    {
+      "char": "🦩",
+      "name": "Flamingo"
+    },
+    {
+      "char": "🦚",
+      "name": "Peacock"
+    },
+    {
+      "char": "🦜",
+      "name": "Parrot"
+    },
+    {
+      "char": "🐸",
+      "name": "Frog"
+    },
+    {
+      "char": "🐊",
+      "name": "Crocodile"
+    },
+    {
+      "char": "🐢",
+      "name": "Turtle"
+    },
+    {
+      "char": "🦎",
+      "name": "Lizard"
+    },
+    {
+      "char": "🐍",
+      "name": "Snake"
+    },
+    {
+      "char": "🐲",
+      "name": "Dragon Face"
+    },
+    {
+      "char": "🐉",
+      "name": "Dragon"
+    },
+    {
+      "char": "🦕",
+      "name": "Sauropod"
+    },
+    {
+      "char": "🦖",
+      "name": "T-Rex"
+    },
+    {
+      "char": "🐳",
+      "name": "Spouting Whale"
+    },
+    {
+      "char": "🐋",
+      "name": "Whale"
+    },
+    {
+      "char": "🐬",
+      "name": "Dolphin"
+    },
+    {
+      "char": "🐟",
+      "name": "Fish"
+    },
+    {
+      "char": "🐠",
+      "name": "Tropical Fish"
+    },
+    {
+      "char": "🐡",
+      "name": "Blowfish"
+    },
+    {
+      "char": "🦈",
+      "name": "Shark"
+    },
+    {
+      "char": "🐙",
+      "name": "Octopus"
+    },
+    {
+      "char": "🐚",
+      "name": "Spiral Shell"
+    },
+    {
+      "char": "🐌",
+      "name": "Snail"
+    },
+    {
+      "char": "🦋",
+      "name": "Butterfly"
+    },
+    {
+      "char": "🐛",
+      "name": "Bug"
+    },
+    {
+      "char": "🐜",
+      "name": "Ant"
+    },
+    {
+      "char": "🐝",
+      "name": "Honeybee"
+    },
+    {
+      "char": "🐞",
+      "name": "Lady Beetle"
+    },
+    {
+      "char": "🦗",
+      "name": "Cricket"
+    },
+    {
+      "char": "🕷",
+      "name": "Spider"
+    },
+    {
+      "char": "🕸",
+      "name": "Spider Web"
+    },
+    {
+      "char": "🦂",
+      "name": "Scorpion"
+    },
+    {
+      "char": "🦟",
+      "name": "Mosquito"
+    },
+    {
+      "char": "🦠",
+      "name": "Microbe"
+    },
+    {
+      "char": "💐",
+      "name": "Bouquet"
+    },
+    {
+      "char": "🌸",
+      "name": "Cherry Blossom"
+    },
+    {
+      "char": "💮",
+      "name": "White Flower"
+    },
+    {
+      "char": "🏵",
+      "name": "Rosette"
+    },
+    {
+      "char": "🌹",
+      "name": "Rose"
+    },
+    {
+      "char": "🥀",
+      "name": "Wilted Flower"
+    },
+    {
+      "char": "🌺",
+      "name": "Hibiscus"
+    },
+    {
+      "char": "🌻",
+      "name": "Sunflower"
+    },
+    {
+      "char": "🌼",
+      "name": "Blossom"
+    },
+    {
+      "char": "🌷",
+      "name": "Tulip"
+    },
+    {
+      "char": "🌱",
+      "name": "Seedling"
+    },
+    {
+      "char": "🌲",
+      "name": "Evergreen Tree"
+    },
+    {
+      "char": "🌳",
+      "name": "Deciduous Tree"
+    },
+    {
+      "char": "🌴",
+      "name": "Palm Tree"
+    },
+    {
+      "char": "🌵",
+      "name": "Cactus"
+    },
+    {
+      "char": "🌾",
+      "name": "Sheaf of Rice"
+    },
+    {
+      "char": "🌿",
+      "name": "Herb"
+    },
+    {
+      "char": "☘",
+      "name": "Shamrock"
+    },
+    {
+      "char": "🍀",
+      "name": "Four Leaf Clover"
+    },
+    {
+      "char": "🍁",
+      "name": "Maple Leaf"
+    },
+    {
+      "char": "🍂",
+      "name": "Fallen Leaf"
+    },
+    {
+      "char": "🍃",
+      "name": "Leaf Fluttering in Wind"
+    },
+    {
+      "char": "🍄",
+      "name": "Mushroom"
+    },
+    {
+      "char": "🌰",
+      "name": "Chestnut"
+    },
+    {
+      "char": "🦀",
+      "name": "Crab"
+    },
+    {
+      "char": "🦞",
+      "name": "Lobster"
+    },
+    {
+      "char": "🦐",
+      "name": "Shrimp"
+    },
+    {
+      "char": "🦑",
+      "name": "Squid"
+    },
+    {
+      "char": "🌍",
+      "name": "Globe Showing Europe-Africa"
+    },
+    {
+      "char": "🌎",
+      "name": "Globe Showing Americas"
+    },
+    {
+      "char": "🌏",
+      "name": "Globe Showing Asia-Australia"
+    },
+    {
+      "char": "🌐",
+      "name": "Globe with Meridians"
+    },
+    {
+      "char": "🌑",
+      "name": "New Moon"
+    },
+    {
+      "char": "🌒",
+      "name": "Waxing Crescent Moon"
+    },
+    {
+      "char": "🌓",
+      "name": "First Quarter Moon"
+    },
+    {
+      "char": "🌔",
+      "name": "Waxing Gibbous Moon"
+    },
+    {
+      "char": "🌕",
+      "name": "Full Moon"
+    },
+    {
+      "char": "🌖",
+      "name": "Waning Gibbous Moon"
+    },
+    {
+      "char": "🌗",
+      "name": "Last Quarter Moon"
+    },
+    {
+      "char": "🌘",
+      "name": "Waning Crescent Moon"
+    },
+    {
+      "char": "🌙",
+      "name": "Crescent Moon"
+    },
+    {
+      "char": "🌚",
+      "name": "New Moon Face"
+    },
+    {
+      "char": "🌛",
+      "name": "First Quarter Moon Face"
+    },
+    {
+      "char": "🌜",
+      "name": "Last Quarter Moon Face"
+    },
+    {
+      "char": "☀",
+      "name": "Sun"
+    },
+    {
+      "char": "🌝",
+      "name": "Full Moon Face"
+    },
+    {
+      "char": "🌞",
+      "name": "Sun with Face"
+    },
+    {
+      "char": "⭐",
+      "name": "Star"
+    },
+    {
+      "char": "🌟",
+      "name": "Glowing Star"
+    },
+    {
+      "char": "🌠",
+      "name": "Shooting Star"
+    },
+    {
+      "char": "☁",
+      "name": "Cloud"
+    },
+    {
+      "char": "⛅",
+      "name": "Sun Behind Cloud"
+    },
+    {
+      "char": "⛈",
+      "name": "Cloud with Lightning and Rain"
+    },
+    {
+      "char": "🌤",
+      "name": "Sun Behind Small Cloud"
+    },
+    {
+      "char": "🌥",
+      "name": "Sun Behind Large Cloud"
+    },
+    {
+      "char": "🌦",
+      "name": "Sun Behind Rain Cloud"
+    },
+    {
+      "char": "🌧",
+      "name": "Cloud with Rain"
+    },
+    {
+      "char": "🌨",
+      "name": "Cloud with Snow"
+    },
+    {
+      "char": "🌩",
+      "name": "Cloud with Lightning"
+    },
+    {
+      "char": "🌪",
+      "name": "Tornado"
+    },
+    {
+      "char": "🌫",
+      "name": "Fog"
+    },
+    {
+      "char": "🌬",
+      "name": "Wind Face"
+    },
+    {
+      "char": "🌈",
+      "name": "Rainbow"
+    },
+    {
+      "char": "☂",
+      "name": "Umbrella"
+    },
+    {
+      "char": "☔",
+      "name": "Umbrella with Rain Drops"
+    },
+    {
+      "char": "⚡",
+      "name": "High Voltage"
+    },
+    {
+      "char": "❄",
+      "name": "Snowflake"
+    },
+    {
+      "char": "☃",
+      "name": "Snowman"
+    },
+    {
+      "char": "⛄",
+      "name": "Snowman Without Snow"
+    },
+    {
+      "char": "☄",
+      "name": "Comet"
+    },
+    {
+      "char": "🔥",
+      "name": "Fire"
+    },
+    {
+      "char": "💧",
+      "name": "Droplet"
+    },
+    {
+      "char": "🌊",
+      "name": "Water Wave"
+    },
+    {
+      "char": "🎄",
+      "name": "Christmas Tree"
+    },
+    {
+      "char": "✨",
+      "name": "Sparkles"
+    },
+    {
+      "char": "🎋",
+      "name": "Tanabata Tree"
+    },
+    {
+      "char": "🎍",
+      "name": "Pine Decoration"
+    }
+  ],
+  "food-drink": [
+    {
+      "char": "🍇",
+      "name": "Grapes"
+    },
+    {
+      "char": "🍈",
+      "name": "Melon"
+    },
+    {
+      "char": "🍉",
+      "name": "Watermelon"
+    },
+    {
+      "char": "🍊",
+      "name": "Tangerine"
+    },
+    {
+      "char": "🍋",
+      "name": "Lemon"
+    },
+    {
+      "char": "🍌",
+      "name": "Banana"
+    },
+    {
+      "char": "🍍",
+      "name": "Pineapple"
+    },
+    {
+      "char": "🥭",
+      "name": "Mango"
+    },
+    {
+      "char": "🍎",
+      "name": "Red Apple"
+    },
+    {
+      "char": "🍏",
+      "name": "Green Apple"
+    },
+    {
+      "char": "🍐",
+      "name": "Pear"
+    },
+    {
+      "char": "🍑",
+      "name": "Peach"
+    },
+    {
+      "char": "🍒",
+      "name": "Cherries"
+    },
+    {
+      "char": "🍓",
+      "name": "Strawberry"
+    },
+    {
+      "char": "🥝",
+      "name": "Kiwi Fruit"
+    },
+    {
+      "char": "🍅",
+      "name": "Tomato"
+    },
+    {
+      "char": "🥥",
+      "name": "Coconut"
+    },
+    {
+      "char": "🥑",
+      "name": "Avocado"
+    },
+    {
+      "char": "🍆",
+      "name": "Eggplant"
+    },
+    {
+      "char": "🥔",
+      "name": "Potato"
+    },
+    {
+      "char": "🥕",
+      "name": "Carrot"
+    },
+    {
+      "char": "🌽",
+      "name": "Ear of Corn"
+    },
+    {
+      "char": "🌶",
+      "name": "Hot Pepper"
+    },
+    {
+      "char": "🥒",
+      "name": "Cucumber"
+    },
+    {
+      "char": "🥬",
+      "name": "Leafy Green"
+    },
+    {
+      "char": "🥦",
+      "name": "Broccoli"
+    },
+    {
+      "char": "🧄",
+      "name": "Garlic"
+    },
+    {
+      "char": "🧅",
+      "name": "Onion"
+    },
+    {
+      "char": "🍄",
+      "name": "Mushroom"
+    },
+    {
+      "char": "🥜",
+      "name": "Peanuts"
+    },
+    {
+      "char": "🌰",
+      "name": "Chestnut"
+    },
+    {
+      "char": "🍞",
+      "name": "Bread"
+    },
+    {
+      "char": "🥐",
+      "name": "Croissant"
+    },
+    {
+      "char": "🥖",
+      "name": "Baguette Bread"
+    },
+    {
+      "char": "🥨",
+      "name": "Pretzel"
+    },
+    {
+      "char": "🥯",
+      "name": "Bagel"
+    },
+    {
+      "char": "🥞",
+      "name": "Pancakes"
+    },
+    {
+      "char": "🧇",
+      "name": "Waffle"
+    },
+    {
+      "char": "🧀",
+      "name": "Cheese Wedge"
+    },
+    {
+      "char": "🍖",
+      "name": "Meat on Bone"
+    },
+    {
+      "char": "🍗",
+      "name": "Poultry Leg"
+    },
+    {
+      "char": "🥩",
+      "name": "Cut of Meat"
+    },
+    {
+      "char": "🥓",
+      "name": "Bacon"
+    },
+    {
+      "char": "🍔",
+      "name": "Hamburger"
+    },
+    {
+      "char": "🍟",
+      "name": "French Fries"
+    },
+    {
+      "char": "🍕",
+      "name": "Pizza"
+    },
+    {
+      "char": "🌭",
+      "name": "Hot Dog"
+    },
+    {
+      "char": "🥪",
+      "name": "Sandwich"
+    },
+    {
+      "char": "🌮",
+      "name": "Taco"
+    },
+    {
+      "char": "🌯",
+      "name": "Burrito"
+    },
+    {
+      "char": "🥙",
+      "name": "Stuffed Flatbread"
+    },
+    {
+      "char": "🧆",
+      "name": "Falafel"
+    },
+    {
+      "char": "🥚",
+      "name": "Egg"
+    },
+    {
+      "char": "🍳",
+      "name": "Cooking"
+    },
+    {
+      "char": "🥘",
+      "name": "Shallow Pan of Food"
+    },
+    {
+      "char": "🍲",
+      "name": "Pot of Food"
+    },
+    {
+      "char": "🥣",
+      "name": "Bowl with Spoon"
+    },
+    {
+      "char": "🥗",
+      "name": "Green Salad"
+    },
+    {
+      "char": "🍿",
+      "name": "Popcorn"
+    },
+    {
+      "char": "🧈",
+      "name": "Butter"
+    },
+    {
+      "char": "🧂",
+      "name": "Salt"
+    },
+    {
+      "char": "🥫",
+      "name": "Canned Food"
+    },
+    {
+      "char": "🍱",
+      "name": "Bento Box"
+    },
+    {
+      "char": "🍘",
+      "name": "Rice Cracker"
+    },
+    {
+      "char": "🍙",
+      "name": "Rice Ball"
+    },
+    {
+      "char": "🍚",
+      "name": "Cooked Rice"
+    },
+    {
+      "char": "🍛",
+      "name": "Curry Rice"
+    },
+    {
+      "char": "🍜",
+      "name": "Steaming Bowl"
+    },
+    {
+      "char": "🍝",
+      "name": "Spaghetti"
+    },
+    {
+      "char": "🍠",
+      "name": "Roasted Sweet Potato"
+    },
+    {
+      "char": "🍢",
+      "name": "Oden"
+    },
+    {
+      "char": "🍣",
+      "name": "Sushi"
+    },
+    {
+      "char": "🍤",
+      "name": "Fried Shrimp"
+    },
+    {
+      "char": "🍥",
+      "name": "Fish Cake with Swirl"
+    },
+    {
+      "char": "🥮",
+      "name": "Moon Cake"
+    },
+    {
+      "char": "🍡",
+      "name": "Dango"
+    },
+    {
+      "char": "🥟",
+      "name": "Dumpling"
+    },
+    {
+      "char": "🥠",
+      "name": "Fortune Cookie"
+    },
+    {
+      "char": "🥡",
+      "name": "Takeout Box"
+    },
+    {
+      "char": "🦪",
+      "name": "Oyster"
+    },
+    {
+      "char": "🍦",
+      "name": "Soft Ice Cream"
+    },
+    {
+      "char": "🍧",
+      "name": "Shaved Ice"
+    },
+    {
+      "char": "🍨",
+      "name": "Ice Cream"
+    },
+    {
+      "char": "🍩",
+      "name": "Doughnut"
+    },
+    {
+      "char": "🍪",
+      "name": "Cookie"
+    },
+    {
+      "char": "🎂",
+      "name": "Birthday Cake"
+    },
+    {
+      "char": "🍰",
+      "name": "Shortcake"
+    },
+    {
+      "char": "🧁",
+      "name": "Cupcake"
+    },
+    {
+      "char": "🥧",
+      "name": "Pie"
+    },
+    {
+      "char": "🍫",
+      "name": "Chocolate Bar"
+    },
+    {
+      "char": "🍬",
+      "name": "Candy"
+    },
+    {
+      "char": "🍭",
+      "name": "Lollipop"
+    },
+    {
+      "char": "🍮",
+      "name": "Custard"
+    },
+    {
+      "char": "🍯",
+      "name": "Honey Pot"
+    },
+    {
+      "char": "🍼",
+      "name": "Baby Bottle"
+    },
+    {
+      "char": "🥛",
+      "name": "Glass of Milk"
+    },
+    {
+      "char": "☕",
+      "name": "Hot Beverage"
+    },
+    {
+      "char": "🍵",
+      "name": "Teacup Without Handle"
+    },
+    {
+      "char": "🍶",
+      "name": "Sake"
+    },
+    {
+      "char": "🍾",
+      "name": "Bottle with Popping Cork"
+    },
+    {
+      "char": "🍷",
+      "name": "Wine Glass"
+    },
+    {
+      "char": "🍸",
+      "name": "Cocktail Glass"
+    },
+    {
+      "char": "🍹",
+      "name": "Tropical Drink"
+    },
+    {
+      "char": "🍺",
+      "name": "Beer Mug"
+    },
+    {
+      "char": "🍻",
+      "name": "Clinking Beer Mugs"
+    },
+    {
+      "char": "🥂",
+      "name": "Clinking Glasses"
+    },
+    {
+      "char": "🥃",
+      "name": "Tumbler Glass"
+    },
+    {
+      "char": "🥤",
+      "name": "Cup with Straw"
+    },
+    {
+      "char": "🧃",
+      "name": "Beverage Box"
+    },
+    {
+      "char": "🧉",
+      "name": "Mate"
+    },
+    {
+      "char": "🧊",
+      "name": "Ice"
+    },
+    {
+      "char": "🥢",
+      "name": "Chopsticks"
+    },
+    {
+      "char": "🍽",
+      "name": "Fork and Knife with Plate"
+    },
+    {
+      "char": "🍴",
+      "name": "Fork and Knife"
+    },
+    {
+      "char": "🥄",
+      "name": "Spoon"
+    }
+  ],
+  "activity": [
+    {
+      "char": "🕴",
+      "name": "Person in Suit Levitating"
+    },
+    {
+      "char": "🧗",
+      "name": "Person Climbing"
+    },
+    {
+      "char": "🧗‍♂️",
+      "name": "‍♂️ Man Climbing"
+    },
+    {
+      "char": "🧗‍♀️",
+      "name": "‍♀️ Woman Climbing"
+    },
+    {
+      "char": "🤺",
+      "name": "Person Fencing"
+    },
+    {
+      "char": "🏇",
+      "name": "Horse Racing"
+    },
+    {
+      "char": "⛷",
+      "name": "Skier"
+    },
+    {
+      "char": "🏂",
+      "name": "Snowboarder"
+    },
+    {
+      "char": "🏌",
+      "name": "Person Golfing"
+    },
+    {
+      "char": "🏌️‍♂️",
+      "name": "️‍♂️ Man Golfing"
+    },
+    {
+      "char": "🏌️‍♀️",
+      "name": "️‍♀️ Woman Golfing"
+    },
+    {
+      "char": "🏄",
+      "name": "Person Surfing"
+    },
+    {
+      "char": "🏄‍♂️",
+      "name": "‍♂️ Man Surfing"
+    },
+    {
+      "char": "🏄‍♀️",
+      "name": "‍♀️ Woman Surfing"
+    },
+    {
+      "char": "🚣",
+      "name": "Person Rowing Boat"
+    },
+    {
+      "char": "🚣‍♂️",
+      "name": "‍♂️ Man Rowing Boat"
+    },
+    {
+      "char": "🚣‍♀️",
+      "name": "‍♀️ Woman Rowing Boat"
+    },
+    {
+      "char": "🏊",
+      "name": "Person Swimming"
+    },
+    {
+      "char": "🏊‍♂️",
+      "name": "‍♂️ Man Swimming"
+    },
+    {
+      "char": "🏊‍♀️",
+      "name": "‍♀️ Woman Swimming"
+    },
+    {
+      "char": "⛹",
+      "name": "Person Bouncing Ball"
+    },
+    {
+      "char": "⛹️‍♂️",
+      "name": "‍♂️ Man Bouncing Ball"
+    },
+    {
+      "char": "⛹️‍♀️",
+      "name": "‍♀️ Woman Bouncing Ball"
+    },
+    {
+      "char": "🏋",
+      "name": "Person Lifting Weights"
+    },
+    {
+      "char": "🏋️‍♂️",
+      "name": "️‍♂️ Man Lifting Weights"
+    },
+    {
+      "char": "🏋️‍♀️",
+      "name": "️‍♀️ Woman Lifting Weights"
+    },
+    {
+      "char": "🚴",
+      "name": "Person Biking"
+    },
+    {
+      "char": "🚴‍♂️",
+      "name": "‍♂️ Man Biking"
+    },
+    {
+      "char": "🚴‍♀️",
+      "name": "‍♀️ Woman Biking"
+    },
+    {
+      "char": "🚵",
+      "name": "Person Mountain Biking"
+    },
+    {
+      "char": "🚵‍♂️",
+      "name": "‍♂️ Man Mountain Biking"
+    },
+    {
+      "char": "🚵‍♀️",
+      "name": "‍♀️ Woman Mountain Biking"
+    },
+    {
+      "char": "🤸",
+      "name": "Person Cartwheeling"
+    },
+    {
+      "char": "🤸‍♂️",
+      "name": "‍♂️ Man Cartwheeling"
+    },
+    {
+      "char": "🤸‍♀️",
+      "name": "‍♀️ Woman Cartwheeling"
+    },
+    {
+      "char": "🤼",
+      "name": "People Wrestling"
+    },
+    {
+      "char": "🤼‍♂️",
+      "name": "‍♂️ Men Wrestling"
+    },
+    {
+      "char": "🤼‍♀️",
+      "name": "‍♀️ Women Wrestling"
+    },
+    {
+      "char": "🤽",
+      "name": "Person Playing Water Polo"
+    },
+    {
+      "char": "🤽‍♂️",
+      "name": "‍♂️ Man Playing Water Polo"
+    },
+    {
+      "char": "🤽‍♀️",
+      "name": "‍♀️ Woman Playing Water Polo"
+    },
+    {
+      "char": "🤾",
+      "name": "Person Playing Handball"
+    },
+    {
+      "char": "🤾‍♂️",
+      "name": "‍♂️ Man Playing Handball"
+    },
+    {
+      "char": "🤾‍♀️",
+      "name": "‍♀️ Woman Playing Handball"
+    },
+    {
+      "char": "🤹",
+      "name": "Person Juggling"
+    },
+    {
+      "char": "🤹‍♂️",
+      "name": "‍♂️ Man Juggling"
+    },
+    {
+      "char": "🤹‍♀️",
+      "name": "‍♀️ Woman Juggling"
+    },
+    {
+      "char": "🧘",
+      "name": "Person in Lotus Position"
+    },
+    {
+      "char": "🧘‍♂️",
+      "name": "‍♂️ Man in Lotus Position"
+    },
+    {
+      "char": "🧘‍♀️",
+      "name": "‍♀️ Woman in Lotus Position"
+    },
+    {
+      "char": "🎪",
+      "name": "Circus Tent"
+    },
+    {
+      "char": "🛹",
+      "name": "Skateboard"
+    },
+    {
+      "char": "🛶",
+      "name": "Canoe"
+    },
+    {
+      "char": "🎗",
+      "name": "Reminder Ribbon"
+    },
+    {
+      "char": "🎟",
+      "name": "Admission Tickets"
+    },
+    {
+      "char": "🎫",
+      "name": "Ticket"
+    },
+    {
+      "char": "🎖",
+      "name": "Military Medal"
+    },
+    {
+      "char": "🏆",
+      "name": "Trophy"
+    },
+    {
+      "char": "🏅",
+      "name": "Sports Medal"
+    },
+    {
+      "char": "🥇",
+      "name": "1st Place Medal"
+    },
+    {
+      "char": "🥈",
+      "name": "2nd Place Medal"
+    },
+    {
+      "char": "🥉",
+      "name": "3rd Place Medal"
+    },
+    {
+      "char": "⚽",
+      "name": "Soccer Ball"
+    },
+    {
+      "char": "⚾",
+      "name": "Baseball"
+    },
+    {
+      "char": "🥎",
+      "name": "Softball"
+    },
+    {
+      "char": "🏀",
+      "name": "Basketball"
+    },
+    {
+      "char": "🏐",
+      "name": "Volleyball"
+    },
+    {
+      "char": "🏈",
+      "name": "American Football"
+    },
+    {
+      "char": "🏉",
+      "name": "Rugby Football"
+    },
+    {
+      "char": "🎾",
+      "name": "Tennis"
+    },
+    {
+      "char": "🥏",
+      "name": "Flying Disc"
+    },
+    {
+      "char": "🎳",
+      "name": "Bowling"
+    },
+    {
+      "char": "🏏",
+      "name": "Cricket Game"
+    },
+    {
+      "char": "🏑",
+      "name": "Field Hockey"
+    },
+    {
+      "char": "🏒",
+      "name": "Ice Hockey"
+    },
+    {
+      "char": "🥍",
+      "name": "Lacrosse"
+    },
+    {
+      "char": "🏓",
+      "name": "Ping Pong"
+    },
+    {
+      "char": "🏸",
+      "name": "Badminton"
+    },
+    {
+      "char": "🥊",
+      "name": "Boxing Glove"
+    },
+    {
+      "char": "🥋",
+      "name": "Martial Arts Uniform"
+    },
+    {
+      "char": "🥅",
+      "name": "Goal Net"
+    },
+    {
+      "char": "⛳",
+      "name": "Flag in Hole"
+    },
+    {
+      "char": "⛸",
+      "name": "Ice Skate"
+    },
+    {
+      "char": "🎣",
+      "name": "Fishing Pole"
+    },
+    {
+      "char": "🎽",
+      "name": "Running Shirt"
+    },
+    {
+      "char": "🎿",
+      "name": "Skis"
+    },
+    {
+      "char": "🛷",
+      "name": "Sled"
+    },
+    {
+      "char": "🥌",
+      "name": "Curling Stone"
+    },
+    {
+      "char": "🎯",
+      "name": "Direct Hit"
+    },
+    {
+      "char": "🎱",
+      "name": "Pool 8 Ball"
+    },
+    {
+      "char": "🎮",
+      "name": "Video Game"
+    },
+    {
+      "char": "🎰",
+      "name": "Slot Machine"
+    },
+    {
+      "char": "🎲",
+      "name": "Game Die"
+    },
+    {
+      "char": "🧩",
+      "name": "Puzzle Piece"
+    },
+    {
+      "char": "♟",
+      "name": "Chess Pawn"
+    },
+    {
+      "char": "🎭",
+      "name": "Performing Arts"
+    },
+    {
+      "char": "🎨",
+      "name": "Artist Palette"
+    },
+    {
+      "char": "🧵",
+      "name": "Thread"
+    },
+    {
+      "char": "🧶",
+      "name": "Yarn"
+    },
+    {
+      "char": "🎼",
+      "name": "Musical Score"
+    },
+    {
+      "char": "🎤",
+      "name": "Microphone"
+    },
+    {
+      "char": "🎧",
+      "name": "Headphone"
+    },
+    {
+      "char": "🎷",
+      "name": "Saxophone"
+    },
+    {
+      "char": "🎸",
+      "name": "Guitar"
+    },
+    {
+      "char": "🎹",
+      "name": "Musical Keyboard"
+    },
+    {
+      "char": "🎺",
+      "name": "Trumpet"
+    },
+    {
+      "char": "🎻",
+      "name": "Violin"
+    },
+    {
+      "char": "🥁",
+      "name": "Drum"
+    },
+    {
+      "char": "🎬",
+      "name": "Clapper Board"
+    },
+    {
+      "char": "🏹",
+      "name": "Bow and Arrow"
+    }
+  ],
+  "travel-places": [
+    {
+      "char": "🚣",
+      "name": "Person Rowing Boat"
+    },
+    {
+      "char": "🗾",
+      "name": "Map of Japan"
+    },
+    {
+      "char": "🏔",
+      "name": "Snow-Capped Mountain"
+    },
+    {
+      "char": "⛰",
+      "name": "Mountain"
+    },
+    {
+      "char": "🌋",
+      "name": "Volcano"
+    },
+    {
+      "char": "🗻",
+      "name": "Mount Fuji"
+    },
+    {
+      "char": "🏕",
+      "name": "Camping"
+    },
+    {
+      "char": "🏖",
+      "name": "Beach with Umbrella"
+    },
+    {
+      "char": "🏜",
+      "name": "Desert"
+    },
+    {
+      "char": "🏝",
+      "name": "Desert Island"
+    },
+    {
+      "char": "🏞",
+      "name": "National Park"
+    },
+    {
+      "char": "🏟",
+      "name": "Stadium"
+    },
+    {
+      "char": "🏛",
+      "name": "Classical Building"
+    },
+    {
+      "char": "🏗",
+      "name": "Building Construction"
+    },
+    {
+      "char": "🏘",
+      "name": "Houses"
+    },
+    {
+      "char": "🏚",
+      "name": "Derelict House"
+    },
+    {
+      "char": "🏠",
+      "name": "House"
+    },
+    {
+      "char": "🏡",
+      "name": "House with Garden"
+    },
+    {
+      "char": "🏢",
+      "name": "Office Building"
+    },
+    {
+      "char": "🏣",
+      "name": "Japanese Post Office"
+    },
+    {
+      "char": "🏤",
+      "name": "Post Office"
+    },
+    {
+      "char": "🏥",
+      "name": "Hospital"
+    },
+    {
+      "char": "🏦",
+      "name": "Bank"
+    },
+    {
+      "char": "🏨",
+      "name": "Hotel"
+    },
+    {
+      "char": "🏩",
+      "name": "Love Hotel"
+    },
+    {
+      "char": "🏪",
+      "name": "Convenience Store"
+    },
+    {
+      "char": "🏫",
+      "name": "School"
+    },
+    {
+      "char": "🏬",
+      "name": "Department Store"
+    },
+    {
+      "char": "🏭",
+      "name": "Factory"
+    },
+    {
+      "char": "🏯",
+      "name": "Japanese Castle"
+    },
+    {
+      "char": "🏰",
+      "name": "Castle"
+    },
+    {
+      "char": "💒",
+      "name": "Wedding"
+    },
+    {
+      "char": "🗼",
+      "name": "Tokyo Tower"
+    },
+    {
+      "char": "🗽",
+      "name": "Statue of Liberty"
+    },
+    {
+      "char": "⛪",
+      "name": "Church"
+    },
+    {
+      "char": "🕌",
+      "name": "Mosque"
+    },
+    {
+      "char": "🛕",
+      "name": "Hindu Temple"
+    },
+    {
+      "char": "🕍",
+      "name": "Synagogue"
+    },
+    {
+      "char": "⛩",
+      "name": "Shinto Shrine"
+    },
+    {
+      "char": "🕋",
+      "name": "Kaaba"
+    },
+    {
+      "char": "⛲",
+      "name": "Fountain"
+    },
+    {
+      "char": "⛺",
+      "name": "Tent"
+    },
+    {
+      "char": "🌁",
+      "name": "Foggy"
+    },
+    {
+      "char": "🌃",
+      "name": "Night with Stars"
+    },
+    {
+      "char": "🏙",
+      "name": "Cityscape"
+    },
+    {
+      "char": "🌄",
+      "name": "Sunrise Over Mountains"
+    },
+    {
+      "char": "🌅",
+      "name": "Sunrise"
+    },
+    {
+      "char": "🌆",
+      "name": "Cityscape at Dusk"
+    },
+    {
+      "char": "🌇",
+      "name": "Sunset"
+    },
+    {
+      "char": "🌉",
+      "name": "Bridge at Night"
+    },
+    {
+      "char": "🎠",
+      "name": "Carousel Horse"
+    },
+    {
+      "char": "🎡",
+      "name": "Ferris Wheel"
+    },
+    {
+      "char": "🎢",
+      "name": "Roller Coaster"
+    },
+    {
+      "char": "🚂",
+      "name": "Locomotive"
+    },
+    {
+      "char": "🚃",
+      "name": "Railway Car"
+    },
+    {
+      "char": "🚄",
+      "name": "High-Speed Train"
+    },
+    {
+      "char": "🚅",
+      "name": "Bullet Train"
+    },
+    {
+      "char": "🚆",
+      "name": "Train"
+    },
+    {
+      "char": "🚇",
+      "name": "Metro"
+    },
+    {
+      "char": "🚈",
+      "name": "Light Rail"
+    },
+    {
+      "char": "🚉",
+      "name": "Station"
+    },
+    {
+      "char": "🚊",
+      "name": "Tram"
+    },
+    {
+      "char": "🚝",
+      "name": "Monorail"
+    },
+    {
+      "char": "🚞",
+      "name": "Mountain Railway"
+    },
+    {
+      "char": "🚋",
+      "name": "Tram Car"
+    },
+    {
+      "char": "🚌",
+      "name": "Bus"
+    },
+    {
+      "char": "🚍",
+      "name": "Oncoming Bus"
+    },
+    {
+      "char": "🚎",
+      "name": "Trolleybus"
+    },
+    {
+      "char": "🚐",
+      "name": "Minibus"
+    },
+    {
+      "char": "🚑",
+      "name": "Ambulance"
+    },
+    {
+      "char": "🚒",
+      "name": "Fire Engine"
+    },
+    {
+      "char": "🚓",
+      "name": "Police Car"
+    },
+    {
+      "char": "🚔",
+      "name": "Oncoming Police Car"
+    },
+    {
+      "char": "🚕",
+      "name": "Taxi"
+    },
+    {
+      "char": "🚖",
+      "name": "Oncoming Taxi"
+    },
+    {
+      "char": "🚗",
+      "name": "Automobile"
+    },
+    {
+      "char": "🚘",
+      "name": "Oncoming Automobile"
+    },
+    {
+      "char": "🚙",
+      "name": "Sport Utility Vehicle"
+    },
+    {
+      "char": "🚚",
+      "name": "Delivery Truck"
+    },
+    {
+      "char": "🚛",
+      "name": "Articulated Lorry"
+    },
+    {
+      "char": "🚜",
+      "name": "Tractor"
+    },
+    {
+      "char": "🏎",
+      "name": "Racing Car"
+    },
+    {
+      "char": "🏍",
+      "name": "Motorcycle"
+    },
+    {
+      "char": "🛵",
+      "name": "Motor Scooter"
+    },
+    {
+      "char": "🛺",
+      "name": "Auto Rickshaw"
+    },
+    {
+      "char": "🚲",
+      "name": "Bicycle"
+    },
+    {
+      "char": "🛴",
+      "name": "Kick Scooter"
+    },
+    {
+      "char": "🚏",
+      "name": "Bus Stop"
+    },
+    {
+      "char": "🛣",
+      "name": "Motorway"
+    },
+    {
+      "char": "🛤",
+      "name": "Railway Track"
+    },
+    {
+      "char": "⛽",
+      "name": "Fuel Pump"
+    },
+    {
+      "char": "🚨",
+      "name": "Police Car Light"
+    },
+    {
+      "char": "🚥",
+      "name": "Horizontal Traffic Light"
+    },
+    {
+      "char": "🚦",
+      "name": "Vertical Traffic Light"
+    },
+    {
+      "char": "🚧",
+      "name": "Construction"
+    },
+    {
+      "char": "⚓",
+      "name": "Anchor"
+    },
+    {
+      "char": "⛵",
+      "name": "Sailboat"
+    },
+    {
+      "char": "🚤",
+      "name": "Speedboat"
+    },
+    {
+      "char": "🛳",
+      "name": "Passenger Ship"
+    },
+    {
+      "char": "⛴",
+      "name": "Ferry"
+    },
+    {
+      "char": "🛥",
+      "name": "Motor Boat"
+    },
+    {
+      "char": "🚢",
+      "name": "Ship"
+    },
+    {
+      "char": "✈",
+      "name": "Airplane"
+    },
+    {
+      "char": "🛩",
+      "name": "Small Airplane"
+    },
+    {
+      "char": "🛫",
+      "name": "Airplane Departure"
+    },
+    {
+      "char": "🛬",
+      "name": "Airplane Arrival"
+    },
+    {
+      "char": "🪂",
+      "name": "Parachute"
+    },
+    {
+      "char": "💺",
+      "name": "Seat"
+    },
+    {
+      "char": "🚁",
+      "name": "Helicopter"
+    },
+    {
+      "char": "🚟",
+      "name": "Suspension Railway"
+    },
+    {
+      "char": "🚠",
+      "name": "Mountain Cableway"
+    },
+    {
+      "char": "🚡",
+      "name": "Aerial Tramway"
+    },
+    {
+      "char": "🛰",
+      "name": "Satellite"
+    },
+    {
+      "char": "🚀",
+      "name": "Rocket"
+    },
+    {
+      "char": "🛸",
+      "name": "Flying Saucer"
+    },
+    {
+      "char": "🪐",
+      "name": "Ringed Planet"
+    },
+    {
+      "char": "🌠",
+      "name": "Shooting Star"
+    },
+    {
+      "char": "🌌",
+      "name": "Milky Way"
+    },
+    {
+      "char": "⛱",
+      "name": "Umbrella on Ground"
+    },
+    {
+      "char": "🎆",
+      "name": "Fireworks"
+    },
+    {
+      "char": "🎇",
+      "name": "Sparkler"
+    },
+    {
+      "char": "🎑",
+      "name": "Moon Viewing Ceremony"
+    },
+    {
+      "char": "💴",
+      "name": "Yen Banknote"
+    },
+    {
+      "char": "💵",
+      "name": "Dollar Banknote"
+    },
+    {
+      "char": "💶",
+      "name": "Euro Banknote"
+    },
+    {
+      "char": "💷",
+      "name": "Pound Banknote"
+    },
+    {
+      "char": "🗿",
+      "name": "Moai"
+    },
+    {
+      "char": "🛂",
+      "name": "Passport Control"
+    },
+    {
+      "char": "🛃",
+      "name": "Customs"
+    },
+    {
+      "char": "🛄",
+      "name": "Baggage Claim"
+    },
+    {
+      "char": "🛅",
+      "name": "Left Luggage"
+    }
+  ],
+  "objects": [
+    {
+      "char": "💌",
+      "name": "Love Letter"
+    },
+    {
+      "char": "🕳",
+      "name": "Hole"
+    },
+    {
+      "char": "💣",
+      "name": "Bomb"
+    },
+    {
+      "char": "🛀",
+      "name": "Person Taking Bath"
+    },
+    {
+      "char": "🛌",
+      "name": "Person in Bed"
+    },
+    {
+      "char": "🔪",
+      "name": "Kitchen Knife"
+    },
+    {
+      "char": "🏺",
+      "name": "Amphora"
+    },
+    {
+      "char": "🗺",
+      "name": "World Map"
+    },
+    {
+      "char": "🧭",
+      "name": "Compass"
+    },
+    {
+      "char": "🧱",
+      "name": "Brick"
+    },
+    {
+      "char": "💈",
+      "name": "Barber Pole"
+    },
+    {
+      "char": "🦽",
+      "name": "Manual Wheelchair"
+    },
+    {
+      "char": "🦼",
+      "name": "Motorized Wheelchair"
+    },
+    {
+      "char": "🛢",
+      "name": "Oil Drum"
+    },
+    {
+      "char": "🛎",
+      "name": "Bellhop Bell"
+    },
+    {
+      "char": "🧳",
+      "name": "Luggage"
+    },
+    {
+      "char": "⌛",
+      "name": "Hourglass Done"
+    },
+    {
+      "char": "⏳",
+      "name": "Hourglass Not Done"
+    },
+    {
+      "char": "⌚",
+      "name": "Watch"
+    },
+    {
+      "char": "⏰",
+      "name": "Alarm Clock"
+    },
+    {
+      "char": "⏱",
+      "name": "Stopwatch"
+    },
+    {
+      "char": "⏲",
+      "name": "Timer Clock"
+    },
+    {
+      "char": "🕰",
+      "name": "Mantelpiece Clock"
+    },
+    {
+      "char": "🌡",
+      "name": "Thermometer"
+    },
+    {
+      "char": "⛱",
+      "name": "Umbrella on Ground"
+    },
+    {
+      "char": "🧨",
+      "name": "Firecracker"
+    },
+    {
+      "char": "🎈",
+      "name": "Balloon"
+    },
+    {
+      "char": "🎉",
+      "name": "Party Popper"
+    },
+    {
+      "char": "🎊",
+      "name": "Confetti Ball"
+    },
+    {
+      "char": "🎎",
+      "name": "Japanese Dolls"
+    },
+    {
+      "char": "🎏",
+      "name": "Carp Streamer"
+    },
+    {
+      "char": "🎐",
+      "name": "Wind Chime"
+    },
+    {
+      "char": "🧧",
+      "name": "Red Envelope"
+    },
+    {
+      "char": "🎀",
+      "name": "Ribbon"
+    },
+    {
+      "char": "🎁",
+      "name": "Wrapped Gift"
+    },
+    {
+      "char": "🤿",
+      "name": "Diving Mask"
+    },
+    {
+      "char": "🪀",
+      "name": "Yo-Yo"
+    },
+    {
+      "char": "🪁",
+      "name": "Kite"
+    },
+    {
+      "char": "🔮",
+      "name": "Crystal Ball"
+    },
+    {
+      "char": "🧿",
+      "name": "Nazar Amulet"
+    },
+    {
+      "char": "🕹",
+      "name": "Joystick"
+    },
+    {
+      "char": "🧸",
+      "name": "Teddy Bear"
+    },
+    {
+      "char": "🖼",
+      "name": "Framed Picture"
+    },
+    {
+      "char": "🧵",
+      "name": "Thread"
+    },
+    {
+      "char": "🧶",
+      "name": "Yarn"
+    },
+    {
+      "char": "🛍",
+      "name": "Shopping Bags"
+    },
+    {
+      "char": "📿",
+      "name": "Prayer Beads"
+    },
+    {
+      "char": "💎",
+      "name": "Gem Stone"
+    },
+    {
+      "char": "📯",
+      "name": "Postal Horn"
+    },
+    {
+      "char": "🎙",
+      "name": "Studio Microphone"
+    },
+    {
+      "char": "🎚",
+      "name": "Level Slider"
+    },
+    {
+      "char": "🎛",
+      "name": "Control Knobs"
+    },
+    {
+      "char": "📻",
+      "name": "Radio"
+    },
+    {
+      "char": "🪕",
+      "name": "Banjo"
+    },
+    {
+      "char": "📱",
+      "name": "Mobile Phone"
+    },
+    {
+      "char": "📲",
+      "name": "Mobile Phone with Arrow"
+    },
+    {
+      "char": "☎",
+      "name": "Telephone"
+    },
+    {
+      "char": "📞",
+      "name": "Telephone Receiver"
+    },
+    {
+      "char": "📟",
+      "name": "Pager"
+    },
+    {
+      "char": "📠",
+      "name": "Fax Machine"
+    },
+    {
+      "char": "🔋",
+      "name": "Battery"
+    },
+    {
+      "char": "🔌",
+      "name": "Electric Plug"
+    },
+    {
+      "char": "💻",
+      "name": "Laptop"
+    },
+    {
+      "char": "🖥",
+      "name": "Desktop Computer"
+    },
+    {
+      "char": "🖨",
+      "name": "Printer"
+    },
+    {
+      "char": "⌨",
+      "name": "Keyboard"
+    },
+    {
+      "char": "🖱",
+      "name": "Computer Mouse"
+    },
+    {
+      "char": "🖲",
+      "name": "Trackball"
+    },
+    {
+      "char": "💽",
+      "name": "Computer Disk"
+    },
+    {
+      "char": "💾",
+      "name": "Floppy Disk"
+    },
+    {
+      "char": "💿",
+      "name": "Optical Disk"
+    },
+    {
+      "char": "📀",
+      "name": "DVD"
+    },
+    {
+      "char": "🧮",
+      "name": "Abacus"
+    },
+    {
+      "char": "🎥",
+      "name": "Movie Camera"
+    },
+    {
+      "char": "🎞",
+      "name": "Film Frames"
+    },
+    {
+      "char": "📽",
+      "name": "Film Projector"
+    },
+    {
+      "char": "📺",
+      "name": "Television"
+    },
+    {
+      "char": "📷",
+      "name": "Camera"
+    },
+    {
+      "char": "📸",
+      "name": "Camera with Flash"
+    },
+    {
+      "char": "📹",
+      "name": "Video Camera"
+    },
+    {
+      "char": "📼",
+      "name": "Videocassette"
+    },
+    {
+      "char": "🔍",
+      "name": "Magnifying Glass Tilted Left"
+    },
+    {
+      "char": "🔎",
+      "name": "Magnifying Glass Tilted Right"
+    },
+    {
+      "char": "🕯",
+      "name": "Candle"
+    },
+    {
+      "char": "💡",
+      "name": "Light Bulb"
+    },
+    {
+      "char": "🔦",
+      "name": "Flashlight"
+    },
+    {
+      "char": "🏮",
+      "name": "Red Paper Lantern"
+    },
+    {
+      "char": "🪔",
+      "name": "Diya Lamp"
+    },
+    {
+      "char": "📔",
+      "name": "Notebook with Decorative Cover"
+    },
+    {
+      "char": "📕",
+      "name": "Closed Book"
+    },
+    {
+      "char": "📖",
+      "name": "Open Book"
+    },
+    {
+      "char": "📗",
+      "name": "Green Book"
+    },
+    {
+      "char": "📘",
+      "name": "Blue Book"
+    },
+    {
+      "char": "📙",
+      "name": "Orange Book"
+    },
+    {
+      "char": "📚",
+      "name": "Books"
+    },
+    {
+      "char": "📓",
+      "name": "Notebook"
+    },
+    {
+      "char": "📒",
+      "name": "Ledger"
+    },
+    {
+      "char": "📃",
+      "name": "Page with Curl"
+    },
+    {
+      "char": "📜",
+      "name": "Scroll"
+    },
+    {
+      "char": "📄",
+      "name": "Page Facing Up"
+    },
+    {
+      "char": "📰",
+      "name": "Newspaper"
+    },
+    {
+      "char": "🗞",
+      "name": "Rolled-Up Newspaper"
+    },
+    {
+      "char": "📑",
+      "name": "Bookmark Tabs"
+    },
+    {
+      "char": "🔖",
+      "name": "Bookmark"
+    },
+    {
+      "char": "🏷",
+      "name": "Label"
+    },
+    {
+      "char": "💰",
+      "name": "Money Bag"
+    },
+    {
+      "char": "💴",
+      "name": "Yen Banknote"
+    },
+    {
+      "char": "💵",
+      "name": "Dollar Banknote"
+    },
+    {
+      "char": "💶",
+      "name": "Euro Banknote"
+    },
+    {
+      "char": "💷",
+      "name": "Pound Banknote"
+    },
+    {
+      "char": "💸",
+      "name": "Money with Wings"
+    },
+    {
+      "char": "💳",
+      "name": "Credit Card"
+    },
+    {
+      "char": "🧾",
+      "name": "Receipt"
+    },
+    {
+      "char": "✉",
+      "name": "Envelope"
+    },
+    {
+      "char": "📧",
+      "name": "E-Mail"
+    },
+    {
+      "char": "📨",
+      "name": "Incoming Envelope"
+    },
+    {
+      "char": "📩",
+      "name": "Envelope with Arrow"
+    },
+    {
+      "char": "📤",
+      "name": "Outbox Tray"
+    },
+    {
+      "char": "📥",
+      "name": "Inbox Tray"
+    },
+    {
+      "char": "📦",
+      "name": "Package"
+    },
+    {
+      "char": "📫",
+      "name": "Closed Mailbox with Raised Flag"
+    },
+    {
+      "char": "📪",
+      "name": "Closed Mailbox with Lowered Flag"
+    },
+    {
+      "char": "📬",
+      "name": "Open Mailbox with Raised Flag"
+    },
+    {
+      "char": "📭",
+      "name": "Open Mailbox with Lowered Flag"
+    },
+    {
+      "char": "📮",
+      "name": "Postbox"
+    },
+    {
+      "char": "🗳",
+      "name": "Ballot Box with Ballot"
+    },
+    {
+      "char": "✏",
+      "name": "Pencil"
+    },
+    {
+      "char": "✒",
+      "name": "Black Nib"
+    },
+    {
+      "char": "🖋",
+      "name": "Fountain Pen"
+    },
+    {
+      "char": "🖊",
+      "name": "Pen"
+    },
+    {
+      "char": "🖌",
+      "name": "Paintbrush"
+    },
+    {
+      "char": "🖍",
+      "name": "Crayon"
+    },
+    {
+      "char": "📝",
+      "name": "Memo"
+    },
+    {
+      "char": "📁",
+      "name": "File Folder"
+    },
+    {
+      "char": "📂",
+      "name": "Open File Folder"
+    },
+    {
+      "char": "🗂",
+      "name": "Card Index Dividers"
+    },
+    {
+      "char": "📅",
+      "name": "Calendar"
+    },
+    {
+      "char": "📆",
+      "name": "Tear-Off Calendar"
+    },
+    {
+      "char": "🗒",
+      "name": "Spiral Notepad"
+    },
+    {
+      "char": "🗓",
+      "name": "Spiral Calendar"
+    },
+    {
+      "char": "📇",
+      "name": "Card Index"
+    },
+    {
+      "char": "📈",
+      "name": "Chart Increasing"
+    },
+    {
+      "char": "📉",
+      "name": "Chart Decreasing"
+    },
+    {
+      "char": "📊",
+      "name": "Bar Chart"
+    },
+    {
+      "char": "📋",
+      "name": "Clipboard"
+    },
+    {
+      "char": "📌",
+      "name": "Pushpin"
+    },
+    {
+      "char": "📍",
+      "name": "Round Pushpin"
+    },
+    {
+      "char": "📎",
+      "name": "Paperclip"
+    },
+    {
+      "char": "🖇",
+      "name": "Linked Paperclips"
+    },
+    {
+      "char": "📏",
+      "name": "Straight Ruler"
+    },
+    {
+      "char": "📐",
+      "name": "Triangular Ruler"
+    },
+    {
+      "char": "✂",
+      "name": "Scissors"
+    },
+    {
+      "char": "🗃",
+      "name": "Card File Box"
+    },
+    {
+      "char": "🗄",
+      "name": "File Cabinet"
+    },
+    {
+      "char": "🗑",
+      "name": "Wastebasket"
+    },
+    {
+      "char": "🔒",
+      "name": "Locked"
+    },
+    {
+      "char": "🔓",
+      "name": "Unlocked"
+    },
+    {
+      "char": "🔏",
+      "name": "Locked with Pen"
+    },
+    {
+      "char": "🔐",
+      "name": "Locked with Key"
+    },
+    {
+      "char": "🔑",
+      "name": "Key"
+    },
+    {
+      "char": "🗝",
+      "name": "Old Key"
+    },
+    {
+      "char": "🔨",
+      "name": "Hammer"
+    },
+    {
+      "char": "🪓",
+      "name": "Axe"
+    },
+    {
+      "char": "⛏",
+      "name": "Pick"
+    },
+    {
+      "char": "⚒",
+      "name": "Hammer and Pick"
+    },
+    {
+      "char": "🛠",
+      "name": "Hammer and Wrench"
+    },
+    {
+      "char": "🗡",
+      "name": "Dagger"
+    },
+    {
+      "char": "⚔",
+      "name": "Crossed Swords"
+    },
+    {
+      "char": "🔫",
+      "name": "Pistol"
+    },
+    {
+      "char": "🛡",
+      "name": "Shield"
+    },
+    {
+      "char": "🔧",
+      "name": "Wrench"
+    },
+    {
+      "char": "🔩",
+      "name": "Nut and Bolt"
+    },
+    {
+      "char": "⚙",
+      "name": "Gear"
+    },
+    {
+      "char": "🗜",
+      "name": "Clamp"
+    },
+    {
+      "char": "⚖",
+      "name": "Balance Scale"
+    },
+    {
+      "char": "🦯",
+      "name": "White Cane"
+    },
+    {
+      "char": "🔗",
+      "name": "Link"
+    },
+    {
+      "char": "⛓",
+      "name": "Chains"
+    },
+    {
+      "char": "🧰",
+      "name": "Toolbox"
+    },
+    {
+      "char": "🧲",
+      "name": "Magnet"
+    },
+    {
+      "char": "⚗",
+      "name": "Alembic"
+    },
+    {
+      "char": "🧪",
+      "name": "Test Tube"
+    },
+    {
+      "char": "🧫",
+      "name": "Petri Dish"
+    },
+    {
+      "char": "🧬",
+      "name": "DNA"
+    },
+    {
+      "char": "🔬",
+      "name": "Microscope"
+    },
+    {
+      "char": "🔭",
+      "name": "Telescope"
+    },
+    {
+      "char": "📡",
+      "name": "Satellite Antenna"
+    },
+    {
+      "char": "💉",
+      "name": "Syringe"
+    },
+    {
+      "char": "🩸",
+      "name": "Drop of Blood"
+    },
+    {
+      "char": "💊",
+      "name": "Pill"
+    },
+    {
+      "char": "🩹",
+      "name": "Adhesive Bandage"
+    },
+    {
+      "char": "🩺",
+      "name": "Stethoscope"
+    },
+    {
+      "char": "🚪",
+      "name": "Door"
+    },
+    {
+      "char": "🛏",
+      "name": "Bed"
+    },
+    {
+      "char": "🛋",
+      "name": "Couch and Lamp"
+    },
+    {
+      "char": "🪑",
+      "name": "Chair"
+    },
+    {
+      "char": "🚽",
+      "name": "Toilet"
+    },
+    {
+      "char": "🚿",
+      "name": "Shower"
+    },
+    {
+      "char": "🛁",
+      "name": "Bathtub"
+    },
+    {
+      "char": "🪒",
+      "name": "Razor"
+    },
+    {
+      "char": "🧴",
+      "name": "Lotion Bottle"
+    },
+    {
+      "char": "🧷",
+      "name": "Safety Pin"
+    },
+    {
+      "char": "🧹",
+      "name": "Broom"
+    },
+    {
+      "char": "🧺",
+      "name": "Basket"
+    },
+    {
+      "char": "🧻",
+      "name": "Roll of Paper"
+    },
+    {
+      "char": "🧼",
+      "name": "Soap"
+    },
+    {
+      "char": "🧽",
+      "name": "Sponge"
+    },
+    {
+      "char": "🧯",
+      "name": "Fire Extinguisher"
+    },
+    {
+      "char": "🛒",
+      "name": "Shopping Cart"
+    },
+    {
+      "char": "🚬",
+      "name": "Cigarette"
+    },
+    {
+      "char": "⚰",
+      "name": "Coffin"
+    },
+    {
+      "char": "⚱",
+      "name": "Funeral Urn"
+    },
+    {
+      "char": "🗿",
+      "name": "Moai"
+    },
+    {
+      "char": "🚰",
+      "name": "Potable Water"
+    }
+  ],
+  "symbols": [
+    {
+      "char": "💘",
+      "name": "Heart with Arrow"
+    },
+    {
+      "char": "💝",
+      "name": "Heart with Ribbon"
+    },
+    {
+      "char": "💖",
+      "name": "Sparkling Heart"
+    },
+    {
+      "char": "💗",
+      "name": "Growing Heart"
+    },
+    {
+      "char": "💓",
+      "name": "Beating Heart"
+    },
+    {
+      "char": "💞",
+      "name": "Revolving Hearts"
+    },
+    {
+      "char": "💕",
+      "name": "Two Hearts"
+    },
+    {
+      "char": "💟",
+      "name": "Heart Decoration"
+    },
+    {
+      "char": "❣",
+      "name": "Heart Exclamation"
+    },
+    {
+      "char": "💔",
+      "name": "Broken Heart"
+    },
+    {
+      "char": "❤",
+      "name": "Red Heart"
+    },
+    {
+      "char": "🧡",
+      "name": "Orange Heart"
+    },
+    {
+      "char": "💛",
+      "name": "Yellow Heart"
+    },
+    {
+      "char": "💚",
+      "name": "Green Heart"
+    },
+    {
+      "char": "💙",
+      "name": "Blue Heart"
+    },
+    {
+      "char": "💜",
+      "name": "Purple Heart"
+    },
+    {
+      "char": "🤎",
+      "name": "Brown Heart"
+    },
+    {
+      "char": "🖤",
+      "name": "Black Heart"
+    },
+    {
+      "char": "🤍",
+      "name": "White Heart"
+    },
+    {
+      "char": "💯",
+      "name": "Hundred Points"
+    },
+    {
+      "char": "💢",
+      "name": "Anger Symbol"
+    },
+    {
+      "char": "💬",
+      "name": "Speech Balloon"
+    },
+    {
+      "char": "👁️‍🗨️",
+      "name": "️‍🗨️ Eye in Speech Bubble"
+    },
+    {
+      "char": "🗨",
+      "name": "Left Speech Bubble"
+    },
+    {
+      "char": "🗯",
+      "name": "Right Anger Bubble"
+    },
+    {
+      "char": "💭",
+      "name": "Thought Balloon"
+    },
+    {
+      "char": "💤",
+      "name": "Zzz"
+    },
+    {
+      "char": "💮",
+      "name": "White Flower"
+    },
+    {
+      "char": "♨",
+      "name": "Hot Springs"
+    },
+    {
+      "char": "💈",
+      "name": "Barber Pole"
+    },
+    {
+      "char": "🛑",
+      "name": "Stop Sign"
+    },
+    {
+      "char": "🕛",
+      "name": "Twelve O’Clock"
+    },
+    {
+      "char": "🕧",
+      "name": "Twelve-Thirty"
+    },
+    {
+      "char": "🕐",
+      "name": "One O’Clock"
+    },
+    {
+      "char": "🕜",
+      "name": "One-Thirty"
+    },
+    {
+      "char": "🕑",
+      "name": "Two O’Clock"
+    },
+    {
+      "char": "🕝",
+      "name": "Two-Thirty"
+    },
+    {
+      "char": "🕒",
+      "name": "Three O’Clock"
+    },
+    {
+      "char": "🕞",
+      "name": "Three-Thirty"
+    },
+    {
+      "char": "🕓",
+      "name": "Four O’Clock"
+    },
+    {
+      "char": "🕟",
+      "name": "Four-Thirty"
+    },
+    {
+      "char": "🕔",
+      "name": "Five O’Clock"
+    },
+    {
+      "char": "🕠",
+      "name": "Five-Thirty"
+    },
+    {
+      "char": "🕕",
+      "name": "Six O’Clock"
+    },
+    {
+      "char": "🕡",
+      "name": "Six-Thirty"
+    },
+    {
+      "char": "🕖",
+      "name": "Seven O’Clock"
+    },
+    {
+      "char": "🕢",
+      "name": "Seven-Thirty"
+    },
+    {
+      "char": "🕗",
+      "name": "Eight O’Clock"
+    },
+    {
+      "char": "🕣",
+      "name": "Eight-Thirty"
+    },
+    {
+      "char": "🕘",
+      "name": "Nine O’Clock"
+    },
+    {
+      "char": "🕤",
+      "name": "Nine-Thirty"
+    },
+    {
+      "char": "🕙",
+      "name": "Ten O’Clock"
+    },
+    {
+      "char": "🕥",
+      "name": "Ten-Thirty"
+    },
+    {
+      "char": "🕚",
+      "name": "Eleven O’Clock"
+    },
+    {
+      "char": "🕦",
+      "name": "Eleven-Thirty"
+    },
+    {
+      "char": "🌀",
+      "name": "Cyclone"
+    },
+    {
+      "char": "♠",
+      "name": "Spade Suit"
+    },
+    {
+      "char": "♥",
+      "name": "Heart Suit"
+    },
+    {
+      "char": "♦",
+      "name": "Diamond Suit"
+    },
+    {
+      "char": "♣",
+      "name": "Club Suit"
+    },
+    {
+      "char": "🃏",
+      "name": "Joker"
+    },
+    {
+      "char": "🀄",
+      "name": "Mahjong Red Dragon"
+    },
+    {
+      "char": "🎴",
+      "name": "Flower Playing Cards"
+    },
+    {
+      "char": "🔇",
+      "name": "Muted Speaker"
+    },
+    {
+      "char": "🔈",
+      "name": "Speaker Low Volume"
+    },
+    {
+      "char": "🔉",
+      "name": "Speaker Medium Volume"
+    },
+    {
+      "char": "🔊",
+      "name": "Speaker High Volume"
+    },
+    {
+      "char": "📢",
+      "name": "Loudspeaker"
+    },
+    {
+      "char": "📣",
+      "name": "Megaphone"
+    },
+    {
+      "char": "📯",
+      "name": "Postal Horn"
+    },
+    {
+      "char": "🔔",
+      "name": "Bell"
+    },
+    {
+      "char": "🔕",
+      "name": "Bell with Slash"
+    },
+    {
+      "char": "🎵",
+      "name": "Musical Note"
+    },
+    {
+      "char": "🎶",
+      "name": "Musical Notes"
+    },
+    {
+      "char": "💹",
+      "name": "Chart Increasing with Yen"
+    },
+    {
+      "char": "🏧",
+      "name": "ATM Sign"
+    },
+    {
+      "char": "🚮",
+      "name": "Litter in Bin Sign"
+    },
+    {
+      "char": "🚰",
+      "name": "Potable Water"
+    },
+    {
+      "char": "♿",
+      "name": "Wheelchair Symbol"
+    },
+    {
+      "char": "🚹",
+      "name": "Men’s Room"
+    },
+    {
+      "char": "🚺",
+      "name": "Women’s Room"
+    },
+    {
+      "char": "🚻",
+      "name": "Restroom"
+    },
+    {
+      "char": "🚼",
+      "name": "Baby Symbol"
+    },
+    {
+      "char": "🚾",
+      "name": "Water Closet"
+    },
+    {
+      "char": "⚠",
+      "name": "Warning"
+    },
+    {
+      "char": "🚸",
+      "name": "Children Crossing"
+    },
+    {
+      "char": "⛔",
+      "name": "No Entry"
+    },
+    {
+      "char": "🚫",
+      "name": "Prohibited"
+    },
+    {
+      "char": "🚳",
+      "name": "No Bicycles"
+    },
+    {
+      "char": "🚭",
+      "name": "No Smoking"
+    },
+    {
+      "char": "🚯",
+      "name": "No Littering"
+    },
+    {
+      "char": "🚱",
+      "name": "Non-Potable Water"
+    },
+    {
+      "char": "🚷",
+      "name": "No Pedestrians"
+    },
+    {
+      "char": "📵",
+      "name": "No Mobile Phones"
+    },
+    {
+      "char": "🔞",
+      "name": "No One Under Eighteen"
+    },
+    {
+      "char": "☢",
+      "name": "Radioactive"
+    },
+    {
+      "char": "☣",
+      "name": "Biohazard"
+    },
+    {
+      "char": "⬆",
+      "name": "Up Arrow"
+    },
+    {
+      "char": "↗",
+      "name": "Up-Right Arrow"
+    },
+    {
+      "char": "➡",
+      "name": "Right Arrow"
+    },
+    {
+      "char": "↘",
+      "name": "Down-Right Arrow"
+    },
+    {
+      "char": "⬇",
+      "name": "Down Arrow"
+    },
+    {
+      "char": "↙",
+      "name": "Down-Left Arrow"
+    },
+    {
+      "char": "⬅",
+      "name": "Left Arrow"
+    },
+    {
+      "char": "↖",
+      "name": "Up-Left Arrow"
+    },
+    {
+      "char": "↕",
+      "name": "Up-Down Arrow"
+    },
+    {
+      "char": "↔",
+      "name": "Left-Right Arrow"
+    },
+    {
+      "char": "↩",
+      "name": "Right Arrow Curving Left"
+    },
+    {
+      "char": "↪",
+      "name": "Left Arrow Curving Right"
+    },
+    {
+      "char": "⤴",
+      "name": "Right Arrow Curving Up"
+    },
+    {
+      "char": "⤵",
+      "name": "Right Arrow Curving Down"
+    },
+    {
+      "char": "🔃",
+      "name": "Clockwise Vertical Arrows"
+    },
+    {
+      "char": "🔄",
+      "name": "Counterclockwise Arrows Button"
+    },
+    {
+      "char": "🔙",
+      "name": "Back Arrow"
+    },
+    {
+      "char": "🔚",
+      "name": "End Arrow"
+    },
+    {
+      "char": "🔛",
+      "name": "On! Arrow"
+    },
+    {
+      "char": "🔜",
+      "name": "Soon Arrow"
+    },
+    {
+      "char": "🔝",
+      "name": "Top Arrow"
+    },
+    {
+      "char": "🛐",
+      "name": "Place of Worship"
+    },
+    {
+      "char": "⚛",
+      "name": "Atom Symbol"
+    },
+    {
+      "char": "🕉",
+      "name": "Om"
+    },
+    {
+      "char": "✡",
+      "name": "Star of David"
+    },
+    {
+      "char": "☸",
+      "name": "Wheel of Dharma"
+    },
+    {
+      "char": "☯",
+      "name": "Yin Yang"
+    },
+    {
+      "char": "✝",
+      "name": "Latin Cross"
+    },
+    {
+      "char": "☦",
+      "name": "Orthodox Cross"
+    },
+    {
+      "char": "☪",
+      "name": "Star and Crescent"
+    },
+    {
+      "char": "☮",
+      "name": "Peace Symbol"
+    },
+    {
+      "char": "🕎",
+      "name": "Menorah"
+    },
+    {
+      "char": "🔯",
+      "name": "Dotted Six-Pointed Star"
+    },
+    {
+      "char": "♈",
+      "name": "Aries"
+    },
+    {
+      "char": "♉",
+      "name": "Taurus"
+    },
+    {
+      "char": "♊",
+      "name": "Gemini"
+    },
+    {
+      "char": "♋",
+      "name": "Cancer"
+    },
+    {
+      "char": "♌",
+      "name": "Leo"
+    },
+    {
+      "char": "♍",
+      "name": "Virgo"
+    },
+    {
+      "char": "♎",
+      "name": "Libra"
+    },
+    {
+      "char": "♏",
+      "name": "Scorpio"
+    },
+    {
+      "char": "♐",
+      "name": "Sagittarius"
+    },
+    {
+      "char": "♑",
+      "name": "Capricorn"
+    },
+    {
+      "char": "♒",
+      "name": "Aquarius"
+    },
+    {
+      "char": "♓",
+      "name": "Pisces"
+    },
+    {
+      "char": "⛎",
+      "name": "Ophiuchus"
+    },
+    {
+      "char": "🔀",
+      "name": "Shuffle Tracks Button"
+    },
+    {
+      "char": "🔁",
+      "name": "Repeat Button"
+    },
+    {
+      "char": "🔂",
+      "name": "Repeat Single Button"
+    },
+    {
+      "char": "▶",
+      "name": "Play Button"
+    },
+    {
+      "char": "⏩",
+      "name": "Fast-Forward Button"
+    },
+    {
+      "char": "⏭",
+      "name": "Next Track Button"
+    },
+    {
+      "char": "⏯",
+      "name": "Play or Pause Button"
+    },
+    {
+      "char": "◀",
+      "name": "Reverse Button"
+    },
+    {
+      "char": "⏪",
+      "name": "Fast Reverse Button"
+    },
+    {
+      "char": "⏮",
+      "name": "Last Track Button"
+    },
+    {
+      "char": "🔼",
+      "name": "Upwards Button"
+    },
+    {
+      "char": "⏫",
+      "name": "Fast Up Button"
+    },
+    {
+      "char": "🔽",
+      "name": "Downwards Button"
+    },
+    {
+      "char": "⏬",
+      "name": "Fast Down Button"
+    },
+    {
+      "char": "⏸",
+      "name": "Pause Button"
+    },
+    {
+      "char": "⏹",
+      "name": "Stop Button"
+    },
+    {
+      "char": "⏺",
+      "name": "Record Button"
+    },
+    {
+      "char": "⏏",
+      "name": "Eject Button"
+    },
+    {
+      "char": "🎦",
+      "name": "Cinema"
+    },
+    {
+      "char": "🔅",
+      "name": "Dim Button"
+    },
+    {
+      "char": "🔆",
+      "name": "Bright Button"
+    },
+    {
+      "char": "📶",
+      "name": "Antenna Bars"
+    },
+    {
+      "char": "📳",
+      "name": "Vibration Mode"
+    },
+    {
+      "char": "📴",
+      "name": "Mobile Phone Off"
+    },
+    {
+      "char": "♀",
+      "name": "Female Sign"
+    },
+    {
+      "char": "♂",
+      "name": "Male Sign"
+    },
+    {
+      "char": "✖",
+      "name": "Multiply"
+    },
+    {
+      "char": "➕",
+      "name": "Plus"
+    },
+    {
+      "char": "➖",
+      "name": "Minus"
+    },
+    {
+      "char": "➗",
+      "name": "Divide"
+    },
+    {
+      "char": "♾",
+      "name": "Infinity"
+    },
+    {
+      "char": "‼",
+      "name": "Double Exclamation Mark"
+    },
+    {
+      "char": "⁉",
+      "name": "Exclamation Question Mark"
+    },
+    {
+      "char": "❓",
+      "name": "Question Mark"
+    },
+    {
+      "char": "❔",
+      "name": "White Question Mark"
+    },
+    {
+      "char": "❕",
+      "name": "White Exclamation Mark"
+    },
+    {
+      "char": "❗",
+      "name": "Exclamation Mark"
+    },
+    {
+      "char": "〰",
+      "name": "Wavy Dash"
+    },
+    {
+      "char": "💱",
+      "name": "Currency Exchange"
+    },
+    {
+      "char": "💲",
+      "name": "Heavy Dollar Sign"
+    },
+    {
+      "char": "⚕",
+      "name": "Medical Symbol"
+    },
+    {
+      "char": "♻",
+      "name": "Recycling Symbol"
+    },
+    {
+      "char": "⚜",
+      "name": "Fleur-de-lis"
+    },
+    {
+      "char": "🔱",
+      "name": "Trident Emblem"
+    },
+    {
+      "char": "📛",
+      "name": "Name Badge"
+    },
+    {
+      "char": "🔰",
+      "name": "Japanese Symbol for Beginner"
+    },
+    {
+      "char": "⭕",
+      "name": "Hollow Red Circle"
+    },
+    {
+      "char": "✅",
+      "name": "Check Mark Button"
+    },
+    {
+      "char": "☑",
+      "name": "Check Box with Check"
+    },
+    {
+      "char": "✔",
+      "name": "Check Mark"
+    },
+    {
+      "char": "❌",
+      "name": "Cross Mark"
+    },
+    {
+      "char": "❎",
+      "name": "Cross Mark Button"
+    },
+    {
+      "char": "➰",
+      "name": "Curly Loop"
+    },
+    {
+      "char": "➿",
+      "name": "Double Curly Loop"
+    },
+    {
+      "char": "〽",
+      "name": "Part Alternation Mark"
+    },
+    {
+      "char": "✳",
+      "name": "Eight-Spoked Asterisk"
+    },
+    {
+      "char": "✴",
+      "name": "Eight-Pointed Star"
+    },
+    {
+      "char": "❇",
+      "name": "Sparkle"
+    },
+    {
+      "char": "©",
+      "name": "Copyright"
+    },
+    {
+      "char": "®",
+      "name": "Registered"
+    },
+    {
+      "char": "™",
+      "name": "Trade Mark"
+    },
+    {
+      "char": "#️⃣",
+      "name": "⃣ Keycap Number Sign"
+    },
+    {
+      "char": "*️⃣",
+      "name": "⃣ Keycap Asterisk"
+    },
+    {
+      "char": "0️⃣",
+      "name": "⃣ Keycap Digit Zero"
+    },
+    {
+      "char": "1️⃣",
+      "name": "⃣ Keycap Digit One"
+    },
+    {
+      "char": "2️⃣",
+      "name": "⃣ Keycap Digit Two"
+    },
+    {
+      "char": "3️⃣",
+      "name": "⃣ Keycap Digit Three"
+    },
+    {
+      "char": "4️⃣",
+      "name": "⃣ Keycap Digit Four"
+    },
+    {
+      "char": "5️⃣",
+      "name": "⃣ Keycap Digit Five"
+    },
+    {
+      "char": "6️⃣",
+      "name": "⃣ Keycap Digit Six"
+    },
+    {
+      "char": "7️⃣",
+      "name": "⃣ Keycap Digit Seven"
+    },
+    {
+      "char": "8️⃣",
+      "name": "⃣ Keycap Digit Eight"
+    },
+    {
+      "char": "9️⃣",
+      "name": "⃣ Keycap Digit Nine"
+    },
+    {
+      "char": "🔟",
+      "name": "Keycap: 10"
+    },
+    {
+      "char": "🔠",
+      "name": "Input Latin Uppercase"
+    },
+    {
+      "char": "🔡",
+      "name": "Input Latin Lowercase"
+    },
+    {
+      "char": "🔢",
+      "name": "Input Numbers"
+    },
+    {
+      "char": "🔣",
+      "name": "Input Symbols"
+    },
+    {
+      "char": "🔤",
+      "name": "Input Latin Letters"
+    },
+    {
+      "char": "🅰",
+      "name": "A Button (Blood Type)"
+    },
+    {
+      "char": "🆎",
+      "name": "AB Button (Blood Type)"
+    },
+    {
+      "char": "🅱",
+      "name": "B Button (Blood Type)"
+    },
+    {
+      "char": "🆑",
+      "name": "CL Button"
+    },
+    {
+      "char": "🆒",
+      "name": "Cool Button"
+    },
+    {
+      "char": "🆓",
+      "name": "Free Button"
+    },
+    {
+      "char": "ℹ",
+      "name": "Information"
+    },
+    {
+      "char": "🆔",
+      "name": "ID Button"
+    },
+    {
+      "char": "Ⓜ",
+      "name": "Circled M"
+    },
+    {
+      "char": "🆕",
+      "name": "New Button"
+    },
+    {
+      "char": "🆖",
+      "name": "NG Button"
+    },
+    {
+      "char": "🅾",
+      "name": "O Button (Blood Type)"
+    },
+    {
+      "char": "🆗",
+      "name": "OK Button"
+    },
+    {
+      "char": "🅿",
+      "name": "P Button"
+    },
+    {
+      "char": "🆘",
+      "name": "SOS Button"
+    },
+    {
+      "char": "🆙",
+      "name": "Up! Button"
+    },
+    {
+      "char": "🆚",
+      "name": "Vs Button"
+    },
+    {
+      "char": "🈁",
+      "name": "Japanese “Here” Button"
+    },
+    {
+      "char": "🈂",
+      "name": "Japanese “Service Charge” Button"
+    },
+    {
+      "char": "🈷",
+      "name": "Japanese “Monthly Amount” Button"
+    },
+    {
+      "char": "🈶",
+      "name": "Japanese “Not Free of Charge” Button"
+    },
+    {
+      "char": "🈯",
+      "name": "Japanese “Reserved” Button"
+    },
+    {
+      "char": "🉐",
+      "name": "Japanese “Bargain” Button"
+    },
+    {
+      "char": "🈹",
+      "name": "Japanese “Discount” Button"
+    },
+    {
+      "char": "🈚",
+      "name": "Japanese “Free of Charge” Button"
+    },
+    {
+      "char": "🈲",
+      "name": "Japanese “Prohibited” Button"
+    },
+    {
+      "char": "🉑",
+      "name": "Japanese “Acceptable” Button"
+    },
+    {
+      "char": "🈸",
+      "name": "Japanese “Application” Button"
+    },
+    {
+      "char": "🈴",
+      "name": "Japanese “Passing Grade” Button"
+    },
+    {
+      "char": "🈳",
+      "name": "Japanese “Vacancy” Button"
+    },
+    {
+      "char": "㊗",
+      "name": "Japanese “Congratulations” Button"
+    },
+    {
+      "char": "㊙",
+      "name": "Japanese “Secret” Button"
+    },
+    {
+      "char": "🈺",
+      "name": "Japanese “Open for Business” Button"
+    },
+    {
+      "char": "🈵",
+      "name": "Japanese “No Vacancy” Button"
+    },
+    {
+      "char": "🔴",
+      "name": "Red Circle"
+    },
+    {
+      "char": "🟠",
+      "name": "Orange Circle"
+    },
+    {
+      "char": "🟡",
+      "name": "Yellow Circle"
+    },
+    {
+      "char": "🟢",
+      "name": "Green Circle"
+    },
+    {
+      "char": "🔵",
+      "name": "Blue Circle"
+    },
+    {
+      "char": "🟣",
+      "name": "Purple Circle"
+    },
+    {
+      "char": "🟤",
+      "name": "Brown Circle"
+    },
+    {
+      "char": "⚫",
+      "name": "Black Circle"
+    },
+    {
+      "char": "⚪",
+      "name": "White Circle"
+    },
+    {
+      "char": "🟥",
+      "name": "Red Square"
+    },
+    {
+      "char": "🟧",
+      "name": "Orange Square"
+    },
+    {
+      "char": "🟨",
+      "name": "Yellow Square"
+    },
+    {
+      "char": "🟩",
+      "name": "Green Square"
+    },
+    {
+      "char": "🟦",
+      "name": "Blue Square"
+    },
+    {
+      "char": "🟪",
+      "name": "Purple Square"
+    },
+    {
+      "char": "🟫",
+      "name": "Brown Square"
+    },
+    {
+      "char": "⬛",
+      "name": "Black Large Square"
+    },
+    {
+      "char": "⬜",
+      "name": "White Large Square"
+    },
+    {
+      "char": "◼",
+      "name": "Black Medium Square"
+    },
+    {
+      "char": "◻",
+      "name": "White Medium Square"
+    },
+    {
+      "char": "◾",
+      "name": "Black Medium-Small Square"
+    },
+    {
+      "char": "◽",
+      "name": "White Medium-Small Square"
+    },
+    {
+      "char": "▪",
+      "name": "Black Small Square"
+    },
+    {
+      "char": "▫",
+      "name": "White Small Square"
+    },
+    {
+      "char": "🔶",
+      "name": "Large Orange Diamond"
+    },
+    {
+      "char": "🔷",
+      "name": "Large Blue Diamond"
+    },
+    {
+      "char": "🔸",
+      "name": "Small Orange Diamond"
+    },
+    {
+      "char": "🔹",
+      "name": "Small Blue Diamond"
+    },
+    {
+      "char": "🔺",
+      "name": "Red Triangle Pointed Up"
+    },
+    {
+      "char": "🔻",
+      "name": "Red Triangle Pointed Down"
+    },
+    {
+      "char": "💠",
+      "name": "Diamond with a Dot"
+    },
+    {
+      "char": "🔘",
+      "name": "Radio Button"
+    },
+    {
+      "char": "🔳",
+      "name": "White Square Button"
+    },
+    {
+      "char": "🔲",
+      "name": "Black Square Button"
+    }
+  ],
+  "flags": [
+    {
+      "char": "🏁",
+      "name": "Chequered Flag"
+    },
+    {
+      "char": "🚩",
+      "name": "Triangular Flag"
+    },
+    {
+      "char": "🎌",
+      "name": "Crossed Flags"
+    },
+    {
+      "char": "🏴",
+      "name": "Black Flag"
+    },
+    {
+      "char": "🏳",
+      "name": "White Flag"
+    },
+    {
+      "char": "🏳️‍🌈",
+      "name": "️‍🌈 Rainbow Flag"
+    },
+    {
+      "char": "🏳️‍⚧️",
+      "name": "️‍⚧️ Transgender Flag"
+    },
+    {
+      "char": "🏴‍☠️",
+      "name": "‍☠️ Pirate Flag"
+    },
+    {
+      "char": "🇦🇨",
+      "name": "🇨 Flag: Ascension Island"
+    },
+    {
+      "char": "🇦🇩",
+      "name": "🇩 Flag: Andorra"
+    },
+    {
+      "char": "🇦🇪",
+      "name": "🇪 Flag: United Arab Emirates"
+    },
+    {
+      "char": "🇦🇫",
+      "name": "🇫 Flag: Afghanistan"
+    },
+    {
+      "char": "🇦🇬",
+      "name": "🇬 Flag: Antigua & Barbuda"
+    },
+    {
+      "char": "🇦🇮",
+      "name": "🇮 Flag: Anguilla"
+    },
+    {
+      "char": "🇦🇱",
+      "name": "🇱 Flag: Albania"
+    },
+    {
+      "char": "🇦🇲",
+      "name": "🇲 Flag: Armenia"
+    },
+    {
+      "char": "🇦🇴",
+      "name": "🇴 Flag: Angola"
+    },
+    {
+      "char": "🇦🇶",
+      "name": "🇶 Flag: Antarctica"
+    },
+    {
+      "char": "🇦🇷",
+      "name": "🇷 Flag: Argentina"
+    },
+    {
+      "char": "🇦🇸",
+      "name": "🇸 Flag: American Samoa"
+    },
+    {
+      "char": "🇦🇹",
+      "name": "🇹 Flag: Austria"
+    },
+    {
+      "char": "🇦🇺",
+      "name": "🇺 Flag: Australia"
+    },
+    {
+      "char": "🇦🇼",
+      "name": "🇼 Flag: Aruba"
+    },
+    {
+      "char": "🇦🇽",
+      "name": "🇽 Flag: Åland Islands"
+    },
+    {
+      "char": "🇦🇿",
+      "name": "🇿 Flag: Azerbaijan"
+    },
+    {
+      "char": "🇧🇦",
+      "name": "🇦 Flag: Bosnia & Herzegovina"
+    },
+    {
+      "char": "🇧🇧",
+      "name": "🇧 Flag: Barbados"
+    },
+    {
+      "char": "🇧🇩",
+      "name": "🇩 Flag: Bangladesh"
+    },
+    {
+      "char": "🇧🇪",
+      "name": "🇪 Flag: Belgium"
+    },
+    {
+      "char": "🇧🇫",
+      "name": "🇫 Flag: Burkina Faso"
+    },
+    {
+      "char": "🇧🇬",
+      "name": "🇬 Flag: Bulgaria"
+    },
+    {
+      "char": "🇧🇭",
+      "name": "🇭 Flag: Bahrain"
+    },
+    {
+      "char": "🇧🇮",
+      "name": "🇮 Flag: Burundi"
+    },
+    {
+      "char": "🇧🇯",
+      "name": "🇯 Flag: Benin"
+    },
+    {
+      "char": "🇧🇱",
+      "name": "🇱 Flag: St. Barthélemy"
+    },
+    {
+      "char": "🇧🇲",
+      "name": "🇲 Flag: Bermuda"
+    },
+    {
+      "char": "🇧🇳",
+      "name": "🇳 Flag: Brunei"
+    },
+    {
+      "char": "🇧🇴",
+      "name": "🇴 Flag: Bolivia"
+    },
+    {
+      "char": "🇧🇶",
+      "name": "🇶 Flag: Caribbean Netherlands"
+    },
+    {
+      "char": "🇧🇷",
+      "name": "🇷 Flag: Brazil"
+    },
+    {
+      "char": "🇧🇸",
+      "name": "🇸 Flag: Bahamas"
+    },
+    {
+      "char": "🇧🇹",
+      "name": "🇹 Flag: Bhutan"
+    },
+    {
+      "char": "🇧🇻",
+      "name": "🇻 Flag: Bouvet Island"
+    },
+    {
+      "char": "🇧🇼",
+      "name": "🇼 Flag: Botswana"
+    },
+    {
+      "char": "🇧🇾",
+      "name": "🇾 Flag: Belarus"
+    },
+    {
+      "char": "🇧🇿",
+      "name": "🇿 Flag: Belize"
+    },
+    {
+      "char": "🇨🇦",
+      "name": "🇦 Flag: Canada"
+    },
+    {
+      "char": "🇨🇨",
+      "name": "🇨 Flag: Cocos (Keeling) Islands"
+    },
+    {
+      "char": "🇨🇩",
+      "name": "🇩 Flag: Congo - Kinshasa"
+    },
+    {
+      "char": "🇨🇫",
+      "name": "🇫 Flag: Central African Republic"
+    },
+    {
+      "char": "🇨🇬",
+      "name": "🇬 Flag: Congo - Brazzaville"
+    },
+    {
+      "char": "🇨🇭",
+      "name": "🇭 Flag: Switzerland"
+    },
+    {
+      "char": "🇨🇮",
+      "name": "🇮 Flag: Côte d’Ivoire"
+    },
+    {
+      "char": "🇨🇰",
+      "name": "🇰 Flag: Cook Islands"
+    },
+    {
+      "char": "🇨🇱",
+      "name": "🇱 Flag: Chile"
+    },
+    {
+      "char": "🇨🇲",
+      "name": "🇲 Flag: Cameroon"
+    },
+    {
+      "char": "🇨🇳",
+      "name": "🇳 Flag: China"
+    },
+    {
+      "char": "🇨🇴",
+      "name": "🇴 Flag: Colombia"
+    },
+    {
+      "char": "🇨🇵",
+      "name": "🇵 Flag: Clipperton Island"
+    },
+    {
+      "char": "🇨🇷",
+      "name": "🇷 Flag: Costa Rica"
+    },
+    {
+      "char": "🇨🇺",
+      "name": "🇺 Flag: Cuba"
+    },
+    {
+      "char": "🇨🇻",
+      "name": "🇻 Flag: Cape Verde"
+    },
+    {
+      "char": "🇨🇼",
+      "name": "🇼 Flag: Curaçao"
+    },
+    {
+      "char": "🇨🇽",
+      "name": "🇽 Flag: Christmas Island"
+    },
+    {
+      "char": "🇨🇾",
+      "name": "🇾 Flag: Cyprus"
+    },
+    {
+      "char": "🇨🇿",
+      "name": "🇿 Flag: Czechia"
+    },
+    {
+      "char": "🇩🇪",
+      "name": "🇪 Flag: Germany"
+    },
+    {
+      "char": "🇩🇬",
+      "name": "🇬 Flag: Diego Garcia"
+    },
+    {
+      "char": "🇩🇯",
+      "name": "🇯 Flag: Djibouti"
+    },
+    {
+      "char": "🇩🇰",
+      "name": "🇰 Flag: Denmark"
+    },
+    {
+      "char": "🇩🇲",
+      "name": "🇲 Flag: Dominica"
+    },
+    {
+      "char": "🇩🇴",
+      "name": "🇴 Flag: Dominican Republic"
+    },
+    {
+      "char": "🇩🇿",
+      "name": "🇿 Flag: Algeria"
+    },
+    {
+      "char": "🇪🇦",
+      "name": "🇦 Flag: Ceuta & Melilla"
+    },
+    {
+      "char": "🇪🇨",
+      "name": "🇨 Flag: Ecuador"
+    },
+    {
+      "char": "🇪🇪",
+      "name": "🇪 Flag: Estonia"
+    },
+    {
+      "char": "🇪🇬",
+      "name": "🇬 Flag: Egypt"
+    },
+    {
+      "char": "🇪🇭",
+      "name": "🇭 Flag: Western Sahara"
+    },
+    {
+      "char": "🇪🇷",
+      "name": "🇷 Flag: Eritrea"
+    },
+    {
+      "char": "🇪🇸",
+      "name": "🇸 Flag: Spain"
+    },
+    {
+      "char": "🇪🇹",
+      "name": "🇹 Flag: Ethiopia"
+    },
+    {
+      "char": "🇪🇺",
+      "name": "🇺 Flag: European Union"
+    },
+    {
+      "char": "🇫🇮",
+      "name": "🇮 Flag: Finland"
+    },
+    {
+      "char": "🇫🇯",
+      "name": "🇯 Flag: Fiji"
+    },
+    {
+      "char": "🇫🇰",
+      "name": "🇰 Flag: Falkland Islands"
+    },
+    {
+      "char": "🇫🇲",
+      "name": "🇲 Flag: Micronesia"
+    },
+    {
+      "char": "🇫🇴",
+      "name": "🇴 Flag: Faroe Islands"
+    },
+    {
+      "char": "🇫🇷",
+      "name": "🇷 Flag: France"
+    },
+    {
+      "char": "🇬🇦",
+      "name": "🇦 Flag: Gabon"
+    },
+    {
+      "char": "🇬🇧",
+      "name": "🇧 Flag: United Kingdom"
+    },
+    {
+      "char": "🇬🇩",
+      "name": "🇩 Flag: Grenada"
+    },
+    {
+      "char": "🇬🇪",
+      "name": "🇪 Flag: Georgia"
+    },
+    {
+      "char": "🇬🇫",
+      "name": "🇫 Flag: French Guiana"
+    },
+    {
+      "char": "🇬🇬",
+      "name": "🇬 Flag: Guernsey"
+    },
+    {
+      "char": "🇬🇭",
+      "name": "🇭 Flag: Ghana"
+    },
+    {
+      "char": "🇬🇮",
+      "name": "🇮 Flag: Gibraltar"
+    },
+    {
+      "char": "🇬🇱",
+      "name": "🇱 Flag: Greenland"
+    },
+    {
+      "char": "🇬🇲",
+      "name": "🇲 Flag: Gambia"
+    },
+    {
+      "char": "🇬🇳",
+      "name": "🇳 Flag: Guinea"
+    },
+    {
+      "char": "🇬🇵",
+      "name": "🇵 Flag: Guadeloupe"
+    },
+    {
+      "char": "🇬🇶",
+      "name": "🇶 Flag: Equatorial Guinea"
+    },
+    {
+      "char": "🇬🇷",
+      "name": "🇷 Flag: Greece"
+    },
+    {
+      "char": "🇬🇸",
+      "name": "🇸 Flag: South Georgia & South Sandwich Islands"
+    },
+    {
+      "char": "🇬🇹",
+      "name": "🇹 Flag: Guatemala"
+    },
+    {
+      "char": "🇬🇺",
+      "name": "🇺 Flag: Guam"
+    },
+    {
+      "char": "🇬🇼",
+      "name": "🇼 Flag: Guinea-Bissau"
+    },
+    {
+      "char": "🇬🇾",
+      "name": "🇾 Flag: Guyana"
+    },
+    {
+      "char": "🇭🇰",
+      "name": "🇰 Flag: Hong Kong SAR China"
+    },
+    {
+      "char": "🇭🇲",
+      "name": "🇲 Flag: Heard & McDonald Islands"
+    },
+    {
+      "char": "🇭🇳",
+      "name": "🇳 Flag: Honduras"
+    },
+    {
+      "char": "🇭🇷",
+      "name": "🇷 Flag: Croatia"
+    },
+    {
+      "char": "🇭🇹",
+      "name": "🇹 Flag: Haiti"
+    },
+    {
+      "char": "🇭🇺",
+      "name": "🇺 Flag: Hungary"
+    },
+    {
+      "char": "🇮🇨",
+      "name": "🇨 Flag: Canary Islands"
+    },
+    {
+      "char": "🇮🇩",
+      "name": "🇩 Flag: Indonesia"
+    },
+    {
+      "char": "🇮🇪",
+      "name": "🇪 Flag: Ireland"
+    },
+    {
+      "char": "🇮🇱",
+      "name": "🇱 Flag: Israel"
+    },
+    {
+      "char": "🇮🇲",
+      "name": "🇲 Flag: Isle of Man"
+    },
+    {
+      "char": "🇮🇳",
+      "name": "🇳 Flag: India"
+    },
+    {
+      "char": "🇮🇴",
+      "name": "🇴 Flag: British Indian Ocean Territory"
+    },
+    {
+      "char": "🇮🇶",
+      "name": "🇶 Flag: Iraq"
+    },
+    {
+      "char": "🇮🇷",
+      "name": "🇷 Flag: Iran"
+    },
+    {
+      "char": "🇮🇸",
+      "name": "🇸 Flag: Iceland"
+    },
+    {
+      "char": "🇮🇹",
+      "name": "🇹 Flag: Italy"
+    },
+    {
+      "char": "🇯🇪",
+      "name": "🇪 Flag: Jersey"
+    },
+    {
+      "char": "🇯🇲",
+      "name": "🇲 Flag: Jamaica"
+    },
+    {
+      "char": "🇯🇴",
+      "name": "🇴 Flag: Jordan"
+    },
+    {
+      "char": "🇯🇵",
+      "name": "🇵 Flag: Japan"
+    },
+    {
+      "char": "🇰🇪",
+      "name": "🇪 Flag: Kenya"
+    },
+    {
+      "char": "🇰🇬",
+      "name": "🇬 Flag: Kyrgyzstan"
+    },
+    {
+      "char": "🇰🇭",
+      "name": "🇭 Flag: Cambodia"
+    },
+    {
+      "char": "🇰🇮",
+      "name": "🇮 Flag: Kiribati"
+    },
+    {
+      "char": "🇰🇲",
+      "name": "🇲 Flag: Comoros"
+    },
+    {
+      "char": "🇰🇳",
+      "name": "🇳 Flag: St. Kitts & Nevis"
+    },
+    {
+      "char": "🇰🇵",
+      "name": "🇵 Flag: North Korea"
+    },
+    {
+      "char": "🇰🇷",
+      "name": "🇷 Flag: South Korea"
+    },
+    {
+      "char": "🇰🇼",
+      "name": "🇼 Flag: Kuwait"
+    },
+    {
+      "char": "🇰🇾",
+      "name": "🇾 Flag: Cayman Islands"
+    },
+    {
+      "char": "🇰🇿",
+      "name": "🇿 Flag: Kazakhstan"
+    },
+    {
+      "char": "🇱🇦",
+      "name": "🇦 Flag: Laos"
+    },
+    {
+      "char": "🇱🇧",
+      "name": "🇧 Flag: Lebanon"
+    },
+    {
+      "char": "🇱🇨",
+      "name": "🇨 Flag: St. Lucia"
+    },
+    {
+      "char": "🇱🇮",
+      "name": "🇮 Flag: Liechtenstein"
+    },
+    {
+      "char": "🇱🇰",
+      "name": "🇰 Flag: Sri Lanka"
+    },
+    {
+      "char": "🇱🇷",
+      "name": "🇷 Flag: Liberia"
+    },
+    {
+      "char": "🇱🇸",
+      "name": "🇸 Flag: Lesotho"
+    },
+    {
+      "char": "🇱🇹",
+      "name": "🇹 Flag: Lithuania"
+    },
+    {
+      "char": "🇱🇺",
+      "name": "🇺 Flag: Luxembourg"
+    },
+    {
+      "char": "🇱🇻",
+      "name": "🇻 Flag: Latvia"
+    },
+    {
+      "char": "🇱🇾",
+      "name": "🇾 Flag: Libya"
+    },
+    {
+      "char": "🇲🇦",
+      "name": "🇦 Flag: Morocco"
+    },
+    {
+      "char": "🇲🇨",
+      "name": "🇨 Flag: Monaco"
+    },
+    {
+      "char": "🇲🇩",
+      "name": "🇩 Flag: Moldova"
+    },
+    {
+      "char": "🇲🇪",
+      "name": "🇪 Flag: Montenegro"
+    },
+    {
+      "char": "🇲🇫",
+      "name": "🇫 Flag: St. Martin"
+    },
+    {
+      "char": "🇲🇬",
+      "name": "🇬 Flag: Madagascar"
+    },
+    {
+      "char": "🇲🇭",
+      "name": "🇭 Flag: Marshall Islands"
+    },
+    {
+      "char": "🇲🇰",
+      "name": "🇰 Flag: North Macedonia"
+    },
+    {
+      "char": "🇲🇱",
+      "name": "🇱 Flag: Mali"
+    },
+    {
+      "char": "🇲🇲",
+      "name": "🇲 Flag: Myanmar (Burma)"
+    },
+    {
+      "char": "🇲🇳",
+      "name": "🇳 Flag: Mongolia"
+    },
+    {
+      "char": "🇲🇴",
+      "name": "🇴 Flag: Macao Sar China"
+    },
+    {
+      "char": "🇲🇵",
+      "name": "🇵 Flag: Northern Mariana Islands"
+    },
+    {
+      "char": "🇲🇶",
+      "name": "🇶 Flag: Martinique"
+    },
+    {
+      "char": "🇲🇷",
+      "name": "🇷 Flag: Mauritania"
+    },
+    {
+      "char": "🇲🇸",
+      "name": "🇸 Flag: Montserrat"
+    },
+    {
+      "char": "🇲🇹",
+      "name": "🇹 Flag: Malta"
+    },
+    {
+      "char": "🇲🇺",
+      "name": "🇺 Flag: Mauritius"
+    },
+    {
+      "char": "🇲🇻",
+      "name": "🇻 Flag: Maldives"
+    },
+    {
+      "char": "🇲🇼",
+      "name": "🇼 Flag: Malawi"
+    },
+    {
+      "char": "🇲🇽",
+      "name": "🇽 Flag: Mexico"
+    },
+    {
+      "char": "🇲🇾",
+      "name": "🇾 Flag: Malaysia"
+    },
+    {
+      "char": "🇲🇿",
+      "name": "🇿 Flag: Mozambique"
+    },
+    {
+      "char": "🇳🇦",
+      "name": "🇦 Flag: Namibia"
+    },
+    {
+      "char": "🇳🇨",
+      "name": "🇨 Flag: New Caledonia"
+    },
+    {
+      "char": "🇳🇪",
+      "name": "🇪 Flag: Niger"
+    },
+    {
+      "char": "🇳🇫",
+      "name": "🇫 Flag: Norfolk Island"
+    },
+    {
+      "char": "🇳🇬",
+      "name": "🇬 Flag: Nigeria"
+    },
+    {
+      "char": "🇳🇮",
+      "name": "🇮 Flag: Nicaragua"
+    },
+    {
+      "char": "🇳🇱",
+      "name": "🇱 Flag: Netherlands"
+    },
+    {
+      "char": "🇳🇴",
+      "name": "🇴 Flag: Norway"
+    },
+    {
+      "char": "🇳🇵",
+      "name": "🇵 Flag: Nepal"
+    },
+    {
+      "char": "🇳🇷",
+      "name": "🇷 Flag: Nauru"
+    },
+    {
+      "char": "🇳🇺",
+      "name": "🇺 Flag: Niue"
+    },
+    {
+      "char": "🇳🇿",
+      "name": "🇿 Flag: New Zealand"
+    },
+    {
+      "char": "🇴🇲",
+      "name": "🇲 Flag: Oman"
+    },
+    {
+      "char": "🇵🇦",
+      "name": "🇦 Flag: Panama"
+    },
+    {
+      "char": "🇵🇪",
+      "name": "🇪 Flag: Peru"
+    },
+    {
+      "char": "🇵🇫",
+      "name": "🇫 Flag: French Polynesia"
+    },
+    {
+      "char": "🇵🇬",
+      "name": "🇬 Flag: Papua New Guinea"
+    },
+    {
+      "char": "🇵🇭",
+      "name": "🇭 Flag: Philippines"
+    },
+    {
+      "char": "🇵🇰",
+      "name": "🇰 Flag: Pakistan"
+    },
+    {
+      "char": "🇵🇱",
+      "name": "🇱 Flag: Poland"
+    },
+    {
+      "char": "🇵🇲",
+      "name": "🇲 Flag: St. Pierre & Miquelon"
+    },
+    {
+      "char": "🇵🇳",
+      "name": "🇳 Flag: Pitcairn Islands"
+    },
+    {
+      "char": "🇵🇷",
+      "name": "🇷 Flag: Puerto Rico"
+    },
+    {
+      "char": "🇵🇸",
+      "name": "🇸 Flag: Palestinian Territories"
+    },
+    {
+      "char": "🇵🇹",
+      "name": "🇹 Flag: Portugal"
+    },
+    {
+      "char": "🇵🇼",
+      "name": "🇼 Flag: Palau"
+    },
+    {
+      "char": "🇵🇾",
+      "name": "🇾 Flag: Paraguay"
+    },
+    {
+      "char": "🇶🇦",
+      "name": "🇦 Flag: Qatar"
+    },
+    {
+      "char": "🇷🇪",
+      "name": "🇪 Flag: Réunion"
+    },
+    {
+      "char": "🇷🇴",
+      "name": "🇴 Flag: Romania"
+    },
+    {
+      "char": "🇷🇸",
+      "name": "🇸 Flag: Serbia"
+    },
+    {
+      "char": "🇷🇺",
+      "name": "🇺 Flag: Russia"
+    },
+    {
+      "char": "🇷🇼",
+      "name": "🇼 Flag: Rwanda"
+    },
+    {
+      "char": "🇸🇦",
+      "name": "🇦 Flag: Saudi Arabia"
+    },
+    {
+      "char": "🇸🇧",
+      "name": "🇧 Flag: Solomon Islands"
+    },
+    {
+      "char": "🇸🇨",
+      "name": "🇨 Flag: Seychelles"
+    },
+    {
+      "char": "🇸🇩",
+      "name": "🇩 Flag: Sudan"
+    },
+    {
+      "char": "🇸🇪",
+      "name": "🇪 Flag: Sweden"
+    },
+    {
+      "char": "🇸🇬",
+      "name": "🇬 Flag: Singapore"
+    },
+    {
+      "char": "🇸🇭",
+      "name": "🇭 Flag: St. Helena"
+    },
+    {
+      "char": "🇸🇮",
+      "name": "🇮 Flag: Slovenia"
+    },
+    {
+      "char": "🇸🇯",
+      "name": "🇯 Flag: Svalbard & Jan Mayen"
+    },
+    {
+      "char": "🇸🇰",
+      "name": "🇰 Flag: Slovakia"
+    },
+    {
+      "char": "🇸🇱",
+      "name": "🇱 Flag: Sierra Leone"
+    },
+    {
+      "char": "🇸🇲",
+      "name": "🇲 Flag: San Marino"
+    },
+    {
+      "char": "🇸🇳",
+      "name": "🇳 Flag: Senegal"
+    },
+    {
+      "char": "🇸🇴",
+      "name": "🇴 Flag: Somalia"
+    },
+    {
+      "char": "🇸🇷",
+      "name": "🇷 Flag: Suriname"
+    },
+    {
+      "char": "🇸🇸",
+      "name": "🇸 Flag: South Sudan"
+    },
+    {
+      "char": "🇸🇹",
+      "name": "🇹 Flag: São Tomé & Príncipe"
+    },
+    {
+      "char": "🇸🇻",
+      "name": "🇻 Flag: El Salvador"
+    },
+    {
+      "char": "🇸🇽",
+      "name": "🇽 Flag: Sint Maarten"
+    },
+    {
+      "char": "🇸🇾",
+      "name": "🇾 Flag: Syria"
+    },
+    {
+      "char": "🇸🇿",
+      "name": "🇿 Flag: Eswatini"
+    },
+    {
+      "char": "🇹🇦",
+      "name": "🇦 Flag: Tristan Da Cunha"
+    },
+    {
+      "char": "🇹🇨",
+      "name": "🇨 Flag: Turks & Caicos Islands"
+    },
+    {
+      "char": "🇹🇩",
+      "name": "🇩 Flag: Chad"
+    },
+    {
+      "char": "🇹🇫",
+      "name": "🇫 Flag: French Southern Territories"
+    },
+    {
+      "char": "🇹🇬",
+      "name": "🇬 Flag: Togo"
+    },
+    {
+      "char": "🇹🇭",
+      "name": "🇭 Flag: Thailand"
+    },
+    {
+      "char": "🇹🇯",
+      "name": "🇯 Flag: Tajikistan"
+    },
+    {
+      "char": "🇹🇰",
+      "name": "🇰 Flag: Tokelau"
+    },
+    {
+      "char": "🇹🇱",
+      "name": "🇱 Flag: Timor-Leste"
+    },
+    {
+      "char": "🇹🇲",
+      "name": "🇲 Flag: Turkmenistan"
+    },
+    {
+      "char": "🇹🇳",
+      "name": "🇳 Flag: Tunisia"
+    },
+    {
+      "char": "🇹🇴",
+      "name": "🇴 Flag: Tonga"
+    },
+    {
+      "char": "🇹🇷",
+      "name": "🇷 Flag: Turkey"
+    },
+    {
+      "char": "🇹🇹",
+      "name": "🇹 Flag: Trinidad & Tobago"
+    },
+    {
+      "char": "🇹🇻",
+      "name": "🇻 Flag: Tuvalu"
+    },
+    {
+      "char": "🇹🇼",
+      "name": "🇼 Flag: Taiwan"
+    },
+    {
+      "char": "🇹🇿",
+      "name": "🇿 Flag: Tanzania"
+    },
+    {
+      "char": "🇺🇦",
+      "name": "🇦 Flag: Ukraine"
+    },
+    {
+      "char": "🇺🇬",
+      "name": "🇬 Flag: Uganda"
+    },
+    {
+      "char": "🇺🇲",
+      "name": "🇲 Flag: U.S. Outlying Islands"
+    },
+    {
+      "char": "🇺🇳",
+      "name": "🇳 Flag: United Nations"
+    },
+    {
+      "char": "🇺🇸",
+      "name": "🇸 Flag: United States"
+    },
+    {
+      "char": "🇺🇾",
+      "name": "🇾 Flag: Uruguay"
+    },
+    {
+      "char": "🇺🇿",
+      "name": "🇿 Flag: Uzbekistan"
+    },
+    {
+      "char": "🇻🇦",
+      "name": "🇦 Flag: Vatican City"
+    },
+    {
+      "char": "🇻🇨",
+      "name": "🇨 Flag: St. Vincent & Grenadines"
+    },
+    {
+      "char": "🇻🇪",
+      "name": "🇪 Flag: Venezuela"
+    },
+    {
+      "char": "🇻🇬",
+      "name": "🇬 Flag: British Virgin Islands"
+    },
+    {
+      "char": "🇻🇮",
+      "name": "🇮 Flag: U.S. Virgin Islands"
+    },
+    {
+      "char": "🇻🇳",
+      "name": "🇳 Flag: Vietnam"
+    },
+    {
+      "char": "🇻🇺",
+      "name": "🇺 Flag: Vanuatu"
+    },
+    {
+      "char": "🇼🇫",
+      "name": "🇫 Flag: Wallis & Futuna"
+    },
+    {
+      "char": "🇼🇸",
+      "name": "🇸 Flag: Samoa"
+    },
+    {
+      "char": "🇽🇰",
+      "name": "🇰 Flag: Kosovo"
+    },
+    {
+      "char": "🇾🇪",
+      "name": "🇪 Flag: Yemen"
+    },
+    {
+      "char": "🇾🇹",
+      "name": "🇹 Flag: Mayotte"
+    },
+    {
+      "char": "🇿🇦",
+      "name": "🇦 Flag: South Africa"
+    },
+    {
+      "char": "🇿🇲",
+      "name": "🇲 Flag: Zambia"
+    },
+    {
+      "char": "🇿🇼",
+      "name": "🇼 Flag: Zimbabwe"
+    },
+    {
+      "char": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "name": "󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England"
+    },
+    {
+      "char": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "name": "󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland"
+    },
+    {
+      "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "name": "󠁧󠁢󠁷󠁬󠁳󠁿 Flag: Wales"
+    },
+    {
+      "char": "🏴󠁵󠁳󠁴󠁸󠁿",
+      "name": "󠁵󠁳󠁴󠁸󠁿 Flag for Texas (US-TX)"
+    }
+  ]
+}
