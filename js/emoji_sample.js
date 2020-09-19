@@ -37,6 +37,5 @@ texts =
     })));
 
 function onFrame(e){
-    console.log(e);
     texts.forEach(function(t){ t.rotate(1) });
 }
