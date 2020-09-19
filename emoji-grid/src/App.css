@@ -1,5 +1,6 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
+  user-select:none;
 }
 
 @keyframes App-logo-spin {
@@ -13,10 +14,35 @@
 
 .emoji-container {
   display: grid;
-  grid-template-rows: auto;
+  grid-template-rows: repeat(10,10vh);
   grid-template-columns: repeat(6,auto);
+  grid-auto-flow:column;
 }
 
 .emoji {
   font-size:4em;
+  width:1em;
+  height:1em;
+  display:inline-block;
+  cursor:pointer;
+  z-index:100;
+  user-select:none;
+}
+
+.emoji-spinning {
+  animation: App-logo-spin infinite 2s linear;
+}
+
+.emoji-rubberband {
+  animation: 
+    rubberBand infinite 2s,
+    flash infinite 8s
+}
+.emoji-swing { animation: swing infinite 1s; }
+.emoji-flip { animation: flip infinite 1s; }
+
+.emoji-wobble {
+  animation: 
+    wobble infinite 1s,
+    flash infinite 16s
 }
