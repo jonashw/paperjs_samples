@@ -1,20 +1,42 @@
 var texts = [];
-fetch('js/emojis.json')
-.then(function(r){ return r.json(); })
-.then(function(emojis){
-    console.log(emojis.people.slice(0,2));
-    var size = 50;
-    texts = 
-        emojis.people.slice(0,5).map(function(e,i){
-            return new PointText({
-                position: new Point(i*(1.15*size),size),
-                fontSize:size,
-                content: e.char
-            });
-        });
-    console.log(texts);
-})
+var emoji_rows = [
+    [
+        "😀",
+        "😃",
+        "😄",
+        "😁",
+        "😆",
+        "🥰",
+    ],
+    [
+        "🐐",
+        "🐪",
+        "🐫",
+        "🦙",
+        "🦒",
+        "🐺",
+    ],
+    [
+        "🍃",
+        "🍄",
+        "🌰",
+        "🦀",
+        "🦞",
+        "🌪",
+    ]
+];
+var size = 44;
 
-function onFrame(){
+texts = 
+    emoji_rows.flatMap((row,ri) =>
+    row.map((e,xi) =>
+    new PointText({
+        position: new Point(xi*(1.15*size),(ri*1.15 + .85)*size),
+        fontSize:size,
+        content: e
+    })));
+
+function onFrame(e){
+    console.log(e);
     texts.forEach(function(t){ t.rotate(1) });
 }
